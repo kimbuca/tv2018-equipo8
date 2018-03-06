@@ -5,7 +5,7 @@ Nightmare
 
 "Your nightmare is someone else’s reality"
 
-Through our VR experience our vision to solve the problem; gender equality, is creating empathy evoking emotions in our users, enabling 
+Through our VR experience our vision to solve the problem of gender equality is creating empathy evoking emotions in our users, enabling 
 them to step into someone else’s shoes. The VR experience will be about different scenarios where the user will live some situations 
 which women all around the world are victims from. These situations will be depicted in a surreal way. Since gender equality is an 
 extense topic we decided to focus on three subtopics: sexual harassment in the workplace, domestic violence and sex trafficking.
