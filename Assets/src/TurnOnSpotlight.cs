@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TurnOnSpotlight : MonoBehaviour {
 	public GameObject spotlight;
-	public GameObject doorSpotLight;
+	public GameObject player;
 
 	// Use this for initialization
 	void Start () {
@@ -16,12 +16,9 @@ public class TurnOnSpotlight : MonoBehaviour {
 		
 	}
 	void OnTriggerEnter(Collider other){
-		Light doorLight = doorSpotLight.GetComponent<Light> ();
 		Light light = spotlight.GetComponent<Light> ();
-		if (other.gameObject.tag=="MainCamera") {
-			light.enabled = false;
-			doorLight.enabled = true;
-
+		if (other.gameObject.GetInstanceID()==player.GetInstanceID()) {
+			light.enabled = true;
 		}
 
 	}
