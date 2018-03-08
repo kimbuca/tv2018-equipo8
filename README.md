@@ -1,6 +1,6 @@
 # tv2018-equipo8
 
-About the proyect:
+About the project:
 Nightmare
 
 "Your nightmare is someone else’s reality"
