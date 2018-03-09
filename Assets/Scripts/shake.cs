@@ -23,7 +23,6 @@ public class shake : MonoBehaviour {
 	}
 
 	void Shake () {
-		Debug.Log ("Me estoy corriendo");
 		if (shakeDuration > 0)
 		{
 			shakeDuration -= Time.deltaTime;

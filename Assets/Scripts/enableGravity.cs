@@ -19,6 +19,11 @@ public class enableGravity : MonoBehaviour {
 		
 	}
 
+
+
+
+
+
 	IEnumerator waitUntil(){
 
 
@@ -29,7 +34,16 @@ public class enableGravity : MonoBehaviour {
 		foreach (Rigidbody child in myChildren) {
 			child.useGravity = true;
 		}
+			
+		yield return new WaitForSeconds (10f);
+
+		Debug.Log ("destruyendo a mis hijos");
+
+		for (int i = 0; i < gameObject.transform.childCount; i++) {
+			var myChildGameobject = gameObject.transform.GetChild (i).gameObject;
+			Destroy (myChildGameobject);
 		
+		}
 	}
 
 	void enableGravityOnChildren() {
