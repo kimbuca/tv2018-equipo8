@@ -1,0 +1,2310 @@
+fileFormatVersion: 2
+guid: fffb384670f8c6d4384ce08c58610ff7
+timeCreated: 1520463879
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Housev2_destruccion:pCube2ShatterGroup
+    100002: Housev2_destruccion:polySurface10
+    100004: Housev2_destruccion:polySurface100
+    100006: Housev2_destruccion:polySurface101
+    100008: Housev2_destruccion:polySurface102
+    100010: Housev2_destruccion:polySurface103
+    100012: Housev2_destruccion:polySurface104
+    100014: Housev2_destruccion:polySurface105
+    100016: Housev2_destruccion:polySurface106
+    100018: Housev2_destruccion:polySurface107
+    100020: Housev2_destruccion:polySurface108
+    100022: Housev2_destruccion:polySurface109
+    100024: Housev2_destruccion:polySurface110
+    100026: Housev2_destruccion:polySurface111
+    100028: Housev2_destruccion:polySurface112
+    100030: Housev2_destruccion:polySurface113
+    100032: Housev2_destruccion:polySurface114
+    100034: Housev2_destruccion:polySurface115
+    100036: Housev2_destruccion:polySurface116
+    100038: Housev2_destruccion:polySurface117
+    100040: Housev2_destruccion:polySurface118
+    100042: Housev2_destruccion:polySurface119
+    100044: Housev2_destruccion:polySurface11ShatterGroup
+    100046: Housev2_destruccion:polySurface11ShatterGroup1
+    100048: Housev2_destruccion:polySurface12
+    100050: Housev2_destruccion:polySurface120
+    100052: Housev2_destruccion:polySurface121
+    100054: Housev2_destruccion:polySurface122
+    100056: Housev2_destruccion:polySurface123
+    100058: Housev2_destruccion:polySurface124
+    100060: Housev2_destruccion:polySurface125
+    100062: Housev2_destruccion:polySurface126
+    100064: Housev2_destruccion:polySurface127
+    100066: Housev2_destruccion:polySurface128
+    100068: Housev2_destruccion:polySurface129
+    100070: Housev2_destruccion:polySurface130
+    100072: Housev2_destruccion:polySurface131
+    100074: Housev2_destruccion:polySurface132
+    100076: Housev2_destruccion:polySurface133
+    100078: Housev2_destruccion:polySurface134
+    100080: Housev2_destruccion:polySurface135
+    100082: Housev2_destruccion:polySurface136
+    100084: Housev2_destruccion:polySurface137
+    100086: Housev2_destruccion:polySurface138
+    100088: Housev2_destruccion:polySurface139
+    100090: Housev2_destruccion:polySurface13ShatterGroup
+    100092: Housev2_destruccion:polySurface14
+    100094: Housev2_destruccion:polySurface140
+    100096: Housev2_destruccion:polySurface141
+    100098: Housev2_destruccion:polySurface142
+    100100: Housev2_destruccion:polySurface143
+    100102: Housev2_destruccion:polySurface144
+    100104: Housev2_destruccion:polySurface145
+    100106: Housev2_destruccion:polySurface146
+    100108: Housev2_destruccion:polySurface147
+    100110: Housev2_destruccion:polySurface148
+    100112: Housev2_destruccion:polySurface149
+    100114: Housev2_destruccion:polySurface15
+    100116: Housev2_destruccion:polySurface150
+    100118: Housev2_destruccion:polySurface151
+    100120: Housev2_destruccion:polySurface152
+    100122: Housev2_destruccion:polySurface153
+    100124: Housev2_destruccion:polySurface154
+    100126: Housev2_destruccion:polySurface155
+    100128: Housev2_destruccion:polySurface156
+    100130: Housev2_destruccion:polySurface157
+    100132: Housev2_destruccion:polySurface158
+    100134: Housev2_destruccion:polySurface159
+    100136: Housev2_destruccion:polySurface16
+    100138: Housev2_destruccion:polySurface160
+    100140: Housev2_destruccion:polySurface161
+    100142: Housev2_destruccion:polySurface162
+    100144: Housev2_destruccion:polySurface163
+    100146: Housev2_destruccion:polySurface164
+    100148: Housev2_destruccion:polySurface165
+    100150: Housev2_destruccion:polySurface166
+    100152: Housev2_destruccion:polySurface167
+    100154: Housev2_destruccion:polySurface168
+    100156: Housev2_destruccion:polySurface169
+    100158: Housev2_destruccion:polySurface17
+    100160: Housev2_destruccion:polySurface170
+    100162: Housev2_destruccion:polySurface171
+    100164: Housev2_destruccion:polySurface172
+    100166: Housev2_destruccion:polySurface173
+    100168: Housev2_destruccion:polySurface174
+    100170: Housev2_destruccion:polySurface175
+    100172: Housev2_destruccion:polySurface176
+    100174: Housev2_destruccion:polySurface177
+    100176: Housev2_destruccion:polySurface178
+    100178: Housev2_destruccion:polySurface179
+    100180: Housev2_destruccion:polySurface18
+    100182: Housev2_destruccion:polySurface180
+    100184: Housev2_destruccion:polySurface181
+    100186: Housev2_destruccion:polySurface182
+    100188: Housev2_destruccion:polySurface183
+    100190: Housev2_destruccion:polySurface184
+    100192: Housev2_destruccion:polySurface185
+    100194: Housev2_destruccion:polySurface186
+    100196: Housev2_destruccion:polySurface187
+    100198: Housev2_destruccion:polySurface188
+    100200: Housev2_destruccion:polySurface189
+    100202: Housev2_destruccion:polySurface19
+    100204: Housev2_destruccion:polySurface190
+    100206: Housev2_destruccion:polySurface191
+    100208: Housev2_destruccion:polySurface192
+    100210: Housev2_destruccion:polySurface193
+    100212: Housev2_destruccion:polySurface194
+    100214: Housev2_destruccion:polySurface195
+    100216: Housev2_destruccion:polySurface196
+    100218: Housev2_destruccion:polySurface197
+    100220: Housev2_destruccion:polySurface198
+    100222: Housev2_destruccion:polySurface199
+    100224: Housev2_destruccion:polySurface2
+    100226: Housev2_destruccion:polySurface20
+    100228: Housev2_destruccion:polySurface200
+    100230: Housev2_destruccion:polySurface201
+    100232: Housev2_destruccion:polySurface202
+    100234: Housev2_destruccion:polySurface203
+    100236: Housev2_destruccion:polySurface204
+    100238: Housev2_destruccion:polySurface205
+    100240: Housev2_destruccion:polySurface206
+    100242: Housev2_destruccion:polySurface207
+    100244: Housev2_destruccion:polySurface208
+    100246: Housev2_destruccion:polySurface209
+    100248: Housev2_destruccion:polySurface21
+    100250: Housev2_destruccion:polySurface210
+    100252: Housev2_destruccion:polySurface211
+    100254: Housev2_destruccion:polySurface212
+    100256: Housev2_destruccion:polySurface213
+    100258: Housev2_destruccion:polySurface214
+    100260: Housev2_destruccion:polySurface215
+    100262: Housev2_destruccion:polySurface216
+    100264: Housev2_destruccion:polySurface217
+    100266: Housev2_destruccion:polySurface218
+    100268: Housev2_destruccion:polySurface219
+    100270: Housev2_destruccion:polySurface22
+    100272: Housev2_destruccion:polySurface220
+    100274: Housev2_destruccion:polySurface221
+    100276: Housev2_destruccion:polySurface222
+    100278: Housev2_destruccion:polySurface223
+    100280: Housev2_destruccion:polySurface224
+    100282: Housev2_destruccion:polySurface225
+    100284: Housev2_destruccion:polySurface226
+    100286: Housev2_destruccion:polySurface227
+    100288: Housev2_destruccion:polySurface228
+    100290: Housev2_destruccion:polySurface229
+    100292: Housev2_destruccion:polySurface23
+    100294: Housev2_destruccion:polySurface230
+    100296: Housev2_destruccion:polySurface231
+    100298: Housev2_destruccion:polySurface232
+    100300: Housev2_destruccion:polySurface233
+    100302: Housev2_destruccion:polySurface234
+    100304: Housev2_destruccion:polySurface235
+    100306: Housev2_destruccion:polySurface236
+    100308: Housev2_destruccion:polySurface237
+    100310: Housev2_destruccion:polySurface238
+    100312: Housev2_destruccion:polySurface239
+    100314: Housev2_destruccion:polySurface24
+    100316: Housev2_destruccion:polySurface240
+    100318: Housev2_destruccion:polySurface241
+    100320: Housev2_destruccion:polySurface242
+    100322: Housev2_destruccion:polySurface243
+    100324: Housev2_destruccion:polySurface244
+    100326: Housev2_destruccion:polySurface245
+    100328: Housev2_destruccion:polySurface246
+    100330: Housev2_destruccion:polySurface247
+    100332: Housev2_destruccion:polySurface248
+    100334: Housev2_destruccion:polySurface249
+    100336: Housev2_destruccion:polySurface25
+    100338: Housev2_destruccion:polySurface250
+    100340: Housev2_destruccion:polySurface251
+    100342: Housev2_destruccion:polySurface252
+    100344: Housev2_destruccion:polySurface253
+    100346: Housev2_destruccion:polySurface254
+    100348: Housev2_destruccion:polySurface255
+    100350: Housev2_destruccion:polySurface256
+    100352: Housev2_destruccion:polySurface257
+    100354: Housev2_destruccion:polySurface258
+    100356: Housev2_destruccion:polySurface259
+    100358: Housev2_destruccion:polySurface26
+    100360: Housev2_destruccion:polySurface260
+    100362: Housev2_destruccion:polySurface261
+    100364: Housev2_destruccion:polySurface262
+    100366: Housev2_destruccion:polySurface263
+    100368: Housev2_destruccion:polySurface264
+    100370: Housev2_destruccion:polySurface264 1
+    100372: Housev2_destruccion:polySurface265
+    100374: Housev2_destruccion:polySurface265 1
+    100376: Housev2_destruccion:polySurface266
+    100378: Housev2_destruccion:polySurface266 1
+    100380: Housev2_destruccion:polySurface267
+    100382: Housev2_destruccion:polySurface267 1
+    100384: Housev2_destruccion:polySurface268
+    100386: Housev2_destruccion:polySurface268 1
+    100388: Housev2_destruccion:polySurface269
+    100390: Housev2_destruccion:polySurface269 1
+    100392: Housev2_destruccion:polySurface27
+    100394: Housev2_destruccion:polySurface270
+    100396: Housev2_destruccion:polySurface270 1
+    100398: Housev2_destruccion:polySurface271
+    100400: Housev2_destruccion:polySurface271 1
+    100402: Housev2_destruccion:polySurface272
+    100404: Housev2_destruccion:polySurface272 1
+    100406: Housev2_destruccion:polySurface273
+    100408: Housev2_destruccion:polySurface273 1
+    100410: Housev2_destruccion:polySurface274
+    100412: Housev2_destruccion:polySurface274 1
+    100414: Housev2_destruccion:polySurface275
+    100416: Housev2_destruccion:polySurface275 1
+    100418: Housev2_destruccion:polySurface276
+    100420: Housev2_destruccion:polySurface276 1
+    100422: Housev2_destruccion:polySurface277
+    100424: Housev2_destruccion:polySurface277 1
+    100426: Housev2_destruccion:polySurface278
+    100428: Housev2_destruccion:polySurface278 1
+    100430: Housev2_destruccion:polySurface279
+    100432: Housev2_destruccion:polySurface279 1
+    100434: Housev2_destruccion:polySurface28
+    100436: Housev2_destruccion:polySurface280
+    100438: Housev2_destruccion:polySurface280 1
+    100440: Housev2_destruccion:polySurface281
+    100442: Housev2_destruccion:polySurface281 1
+    100444: Housev2_destruccion:polySurface282
+    100446: Housev2_destruccion:polySurface282 1
+    100448: Housev2_destruccion:polySurface283
+    100450: Housev2_destruccion:polySurface283 1
+    100452: Housev2_destruccion:polySurface284
+    100454: Housev2_destruccion:polySurface284 1
+    100456: Housev2_destruccion:polySurface285
+    100458: Housev2_destruccion:polySurface285 1
+    100460: Housev2_destruccion:polySurface286
+    100462: Housev2_destruccion:polySurface286 1
+    100464: Housev2_destruccion:polySurface287
+    100466: Housev2_destruccion:polySurface287 1
+    100468: Housev2_destruccion:polySurface288
+    100470: Housev2_destruccion:polySurface288 1
+    100472: Housev2_destruccion:polySurface289
+    100474: Housev2_destruccion:polySurface289 1
+    100476: Housev2_destruccion:polySurface29
+    100478: Housev2_destruccion:polySurface290
+    100480: Housev2_destruccion:polySurface290 1
+    100482: Housev2_destruccion:polySurface291
+    100484: Housev2_destruccion:polySurface291 1
+    100486: Housev2_destruccion:polySurface292
+    100488: Housev2_destruccion:polySurface292 1
+    100490: Housev2_destruccion:polySurface293
+    100492: Housev2_destruccion:polySurface293 1
+    100494: Housev2_destruccion:polySurface294
+    100496: Housev2_destruccion:polySurface294 1
+    100498: Housev2_destruccion:polySurface295
+    100500: Housev2_destruccion:polySurface295 1
+    100502: Housev2_destruccion:polySurface296
+    100504: Housev2_destruccion:polySurface296 1
+    100506: Housev2_destruccion:polySurface297
+    100508: Housev2_destruccion:polySurface297 1
+    100510: Housev2_destruccion:polySurface298
+    100512: Housev2_destruccion:polySurface298 1
+    100514: Housev2_destruccion:polySurface299
+    100516: Housev2_destruccion:polySurface299 1
+    100518: Housev2_destruccion:polySurface30
+    100520: Housev2_destruccion:polySurface300
+    100522: Housev2_destruccion:polySurface300 1
+    100524: Housev2_destruccion:polySurface301
+    100526: Housev2_destruccion:polySurface301 1
+    100528: Housev2_destruccion:polySurface302
+    100530: Housev2_destruccion:polySurface302 1
+    100532: Housev2_destruccion:polySurface303
+    100534: Housev2_destruccion:polySurface303 1
+    100536: Housev2_destruccion:polySurface304
+    100538: Housev2_destruccion:polySurface304 1
+    100540: Housev2_destruccion:polySurface305
+    100542: Housev2_destruccion:polySurface305 1
+    100544: Housev2_destruccion:polySurface306
+    100546: Housev2_destruccion:polySurface306 1
+    100548: Housev2_destruccion:polySurface307
+    100550: Housev2_destruccion:polySurface307 1
+    100552: Housev2_destruccion:polySurface308
+    100554: Housev2_destruccion:polySurface308 1
+    100556: Housev2_destruccion:polySurface309
+    100558: Housev2_destruccion:polySurface309 1
+    100560: Housev2_destruccion:polySurface31
+    100562: Housev2_destruccion:polySurface310
+    100564: Housev2_destruccion:polySurface310 1
+    100566: Housev2_destruccion:polySurface311
+    100568: Housev2_destruccion:polySurface311 1
+    100570: Housev2_destruccion:polySurface312
+    100572: Housev2_destruccion:polySurface312 1
+    100574: Housev2_destruccion:polySurface313
+    100576: Housev2_destruccion:polySurface313 1
+    100578: Housev2_destruccion:polySurface314
+    100580: Housev2_destruccion:polySurface314 1
+    100582: Housev2_destruccion:polySurface315
+    100584: Housev2_destruccion:polySurface315 1
+    100586: Housev2_destruccion:polySurface316
+    100588: Housev2_destruccion:polySurface316 1
+    100590: Housev2_destruccion:polySurface317
+    100592: Housev2_destruccion:polySurface317 1
+    100594: Housev2_destruccion:polySurface318
+    100596: Housev2_destruccion:polySurface318 1
+    100598: Housev2_destruccion:polySurface319
+    100600: Housev2_destruccion:polySurface319 1
+    100602: Housev2_destruccion:polySurface32
+    100604: Housev2_destruccion:polySurface320
+    100606: Housev2_destruccion:polySurface320 1
+    100608: Housev2_destruccion:polySurface321
+    100610: Housev2_destruccion:polySurface321 1
+    100612: Housev2_destruccion:polySurface322
+    100614: Housev2_destruccion:polySurface322 1
+    100616: Housev2_destruccion:polySurface323
+    100618: Housev2_destruccion:polySurface323 1
+    100620: Housev2_destruccion:polySurface324
+    100622: Housev2_destruccion:polySurface324 1
+    100624: Housev2_destruccion:polySurface325
+    100626: Housev2_destruccion:polySurface325 1
+    100628: Housev2_destruccion:polySurface326
+    100630: Housev2_destruccion:polySurface326 1
+    100632: Housev2_destruccion:polySurface327
+    100634: Housev2_destruccion:polySurface327 1
+    100636: Housev2_destruccion:polySurface328
+    100638: Housev2_destruccion:polySurface329
+    100640: Housev2_destruccion:polySurface33
+    100642: Housev2_destruccion:polySurface330
+    100644: Housev2_destruccion:polySurface331
+    100646: Housev2_destruccion:polySurface332
+    100648: Housev2_destruccion:polySurface333
+    100650: Housev2_destruccion:polySurface334
+    100652: Housev2_destruccion:polySurface335
+    100654: Housev2_destruccion:polySurface336
+    100656: Housev2_destruccion:polySurface337
+    100658: Housev2_destruccion:polySurface338
+    100660: Housev2_destruccion:polySurface339
+    100662: Housev2_destruccion:polySurface34
+    100664: Housev2_destruccion:polySurface340
+    100666: Housev2_destruccion:polySurface341
+    100668: Housev2_destruccion:polySurface342
+    100670: Housev2_destruccion:polySurface343
+    100672: Housev2_destruccion:polySurface344
+    100674: Housev2_destruccion:polySurface345
+    100676: Housev2_destruccion:polySurface346
+    100678: Housev2_destruccion:polySurface347
+    100680: Housev2_destruccion:polySurface348
+    100682: Housev2_destruccion:polySurface349
+    100684: Housev2_destruccion:polySurface35
+    100686: Housev2_destruccion:polySurface350
+    100688: Housev2_destruccion:polySurface351
+    100690: Housev2_destruccion:polySurface352
+    100692: Housev2_destruccion:polySurface353
+    100694: Housev2_destruccion:polySurface354
+    100696: Housev2_destruccion:polySurface355
+    100698: Housev2_destruccion:polySurface356
+    100700: Housev2_destruccion:polySurface357
+    100702: Housev2_destruccion:polySurface358
+    100704: Housev2_destruccion:polySurface359
+    100706: Housev2_destruccion:polySurface36
+    100708: Housev2_destruccion:polySurface360
+    100710: Housev2_destruccion:polySurface361
+    100712: Housev2_destruccion:polySurface362
+    100714: Housev2_destruccion:polySurface363
+    100716: Housev2_destruccion:polySurface364
+    100718: Housev2_destruccion:polySurface365
+    100720: Housev2_destruccion:polySurface366
+    100722: Housev2_destruccion:polySurface367
+    100724: Housev2_destruccion:polySurface368
+    100726: Housev2_destruccion:polySurface369
+    100728: Housev2_destruccion:polySurface37
+    100730: Housev2_destruccion:polySurface370
+    100732: Housev2_destruccion:polySurface371
+    100734: Housev2_destruccion:polySurface372
+    100736: Housev2_destruccion:polySurface373
+    100738: Housev2_destruccion:polySurface374
+    100740: Housev2_destruccion:polySurface375
+    100742: Housev2_destruccion:polySurface376
+    100744: Housev2_destruccion:polySurface377
+    100746: Housev2_destruccion:polySurface378
+    100748: Housev2_destruccion:polySurface379
+    100750: Housev2_destruccion:polySurface38
+    100752: Housev2_destruccion:polySurface380
+    100754: Housev2_destruccion:polySurface381
+    100756: Housev2_destruccion:polySurface382
+    100758: Housev2_destruccion:polySurface383
+    100760: Housev2_destruccion:polySurface384
+    100762: Housev2_destruccion:polySurface385
+    100764: Housev2_destruccion:polySurface386
+    100766: Housev2_destruccion:polySurface387
+    100768: Housev2_destruccion:polySurface388
+    100770: Housev2_destruccion:polySurface389
+    100772: Housev2_destruccion:polySurface39
+    100774: Housev2_destruccion:polySurface4
+    100776: Housev2_destruccion:polySurface40
+    100778: Housev2_destruccion:polySurface41
+    100780: Housev2_destruccion:polySurface42
+    100782: Housev2_destruccion:polySurface43
+    100784: Housev2_destruccion:polySurface44
+    100786: Housev2_destruccion:polySurface45
+    100788: Housev2_destruccion:polySurface46
+    100790: Housev2_destruccion:polySurface47
+    100792: Housev2_destruccion:polySurface48
+    100794: Housev2_destruccion:polySurface49
+    100796: Housev2_destruccion:polySurface50
+    100798: Housev2_destruccion:polySurface51
+    100800: Housev2_destruccion:polySurface52
+    100802: Housev2_destruccion:polySurface53
+    100804: Housev2_destruccion:polySurface54
+    100806: Housev2_destruccion:polySurface55
+    100808: Housev2_destruccion:polySurface56
+    100810: Housev2_destruccion:polySurface57
+    100812: Housev2_destruccion:polySurface58
+    100814: Housev2_destruccion:polySurface59
+    100816: Housev2_destruccion:polySurface5ShatterGroup
+    100818: Housev2_destruccion:polySurface6
+    100820: Housev2_destruccion:polySurface60
+    100822: Housev2_destruccion:polySurface61
+    100824: Housev2_destruccion:polySurface62
+    100826: Housev2_destruccion:polySurface63
+    100828: Housev2_destruccion:polySurface64
+    100830: Housev2_destruccion:polySurface65
+    100832: Housev2_destruccion:polySurface66
+    100834: Housev2_destruccion:polySurface67
+    100836: Housev2_destruccion:polySurface68
+    100838: Housev2_destruccion:polySurface69
+    100840: Housev2_destruccion:polySurface70
+    100842: Housev2_destruccion:polySurface71
+    100844: Housev2_destruccion:polySurface72
+    100846: Housev2_destruccion:polySurface73
+    100848: Housev2_destruccion:polySurface74
+    100850: Housev2_destruccion:polySurface75
+    100852: Housev2_destruccion:polySurface76
+    100854: Housev2_destruccion:polySurface77
+    100856: Housev2_destruccion:polySurface78
+    100858: Housev2_destruccion:polySurface79
+    100860: Housev2_destruccion:polySurface7ShatterGroup
+    100862: Housev2_destruccion:polySurface8
+    100864: Housev2_destruccion:polySurface80
+    100866: Housev2_destruccion:polySurface81
+    100868: Housev2_destruccion:polySurface82
+    100870: Housev2_destruccion:polySurface83
+    100872: Housev2_destruccion:polySurface84
+    100874: Housev2_destruccion:polySurface85
+    100876: Housev2_destruccion:polySurface86
+    100878: Housev2_destruccion:polySurface87
+    100880: Housev2_destruccion:polySurface88
+    100882: Housev2_destruccion:polySurface89
+    100884: Housev2_destruccion:polySurface90
+    100886: Housev2_destruccion:polySurface91
+    100888: Housev2_destruccion:polySurface92
+    100890: Housev2_destruccion:polySurface93
+    100892: Housev2_destruccion:polySurface94
+    100894: Housev2_destruccion:polySurface95
+    100896: Housev2_destruccion:polySurface96
+    100898: Housev2_destruccion:polySurface97
+    100900: Housev2_destruccion:polySurface98
+    100902: Housev2_destruccion:polySurface99
+    100904: Housev2_destruccion:polySurface9ShatterGroup
+    100906: //RootNode
+    400000: Housev2_destruccion:pCube2ShatterGroup
+    400002: Housev2_destruccion:polySurface10
+    400004: Housev2_destruccion:polySurface100
+    400006: Housev2_destruccion:polySurface101
+    400008: Housev2_destruccion:polySurface102
+    400010: Housev2_destruccion:polySurface103
+    400012: Housev2_destruccion:polySurface104
+    400014: Housev2_destruccion:polySurface105
+    400016: Housev2_destruccion:polySurface106
+    400018: Housev2_destruccion:polySurface107
+    400020: Housev2_destruccion:polySurface108
+    400022: Housev2_destruccion:polySurface109
+    400024: Housev2_destruccion:polySurface110
+    400026: Housev2_destruccion:polySurface111
+    400028: Housev2_destruccion:polySurface112
+    400030: Housev2_destruccion:polySurface113
+    400032: Housev2_destruccion:polySurface114
+    400034: Housev2_destruccion:polySurface115
+    400036: Housev2_destruccion:polySurface116
+    400038: Housev2_destruccion:polySurface117
+    400040: Housev2_destruccion:polySurface118
+    400042: Housev2_destruccion:polySurface119
+    400044: Housev2_destruccion:polySurface11ShatterGroup
+    400046: Housev2_destruccion:polySurface11ShatterGroup1
+    400048: Housev2_destruccion:polySurface12
+    400050: Housev2_destruccion:polySurface120
+    400052: Housev2_destruccion:polySurface121
+    400054: Housev2_destruccion:polySurface122
+    400056: Housev2_destruccion:polySurface123
+    400058: Housev2_destruccion:polySurface124
+    400060: Housev2_destruccion:polySurface125
+    400062: Housev2_destruccion:polySurface126
+    400064: Housev2_destruccion:polySurface127
+    400066: Housev2_destruccion:polySurface128
+    400068: Housev2_destruccion:polySurface129
+    400070: Housev2_destruccion:polySurface130
+    400072: Housev2_destruccion:polySurface131
+    400074: Housev2_destruccion:polySurface132
+    400076: Housev2_destruccion:polySurface133
+    400078: Housev2_destruccion:polySurface134
+    400080: Housev2_destruccion:polySurface135
+    400082: Housev2_destruccion:polySurface136
+    400084: Housev2_destruccion:polySurface137
+    400086: Housev2_destruccion:polySurface138
+    400088: Housev2_destruccion:polySurface139
+    400090: Housev2_destruccion:polySurface13ShatterGroup
+    400092: Housev2_destruccion:polySurface14
+    400094: Housev2_destruccion:polySurface140
+    400096: Housev2_destruccion:polySurface141
+    400098: Housev2_destruccion:polySurface142
+    400100: Housev2_destruccion:polySurface143
+    400102: Housev2_destruccion:polySurface144
+    400104: Housev2_destruccion:polySurface145
+    400106: Housev2_destruccion:polySurface146
+    400108: Housev2_destruccion:polySurface147
+    400110: Housev2_destruccion:polySurface148
+    400112: Housev2_destruccion:polySurface149
+    400114: Housev2_destruccion:polySurface15
+    400116: Housev2_destruccion:polySurface150
+    400118: Housev2_destruccion:polySurface151
+    400120: Housev2_destruccion:polySurface152
+    400122: Housev2_destruccion:polySurface153
+    400124: Housev2_destruccion:polySurface154
+    400126: Housev2_destruccion:polySurface155
+    400128: Housev2_destruccion:polySurface156
+    400130: Housev2_destruccion:polySurface157
+    400132: Housev2_destruccion:polySurface158
+    400134: Housev2_destruccion:polySurface159
+    400136: Housev2_destruccion:polySurface16
+    400138: Housev2_destruccion:polySurface160
+    400140: Housev2_destruccion:polySurface161
+    400142: Housev2_destruccion:polySurface162
+    400144: Housev2_destruccion:polySurface163
+    400146: Housev2_destruccion:polySurface164
+    400148: Housev2_destruccion:polySurface165
+    400150: Housev2_destruccion:polySurface166
+    400152: Housev2_destruccion:polySurface167
+    400154: Housev2_destruccion:polySurface168
+    400156: Housev2_destruccion:polySurface169
+    400158: Housev2_destruccion:polySurface17
+    400160: Housev2_destruccion:polySurface170
+    400162: Housev2_destruccion:polySurface171
+    400164: Housev2_destruccion:polySurface172
+    400166: Housev2_destruccion:polySurface173
+    400168: Housev2_destruccion:polySurface174
+    400170: Housev2_destruccion:polySurface175
+    400172: Housev2_destruccion:polySurface176
+    400174: Housev2_destruccion:polySurface177
+    400176: Housev2_destruccion:polySurface178
+    400178: Housev2_destruccion:polySurface179
+    400180: Housev2_destruccion:polySurface18
+    400182: Housev2_destruccion:polySurface180
+    400184: Housev2_destruccion:polySurface181
+    400186: Housev2_destruccion:polySurface182
+    400188: Housev2_destruccion:polySurface183
+    400190: Housev2_destruccion:polySurface184
+    400192: Housev2_destruccion:polySurface185
+    400194: Housev2_destruccion:polySurface186
+    400196: Housev2_destruccion:polySurface187
+    400198: Housev2_destruccion:polySurface188
+    400200: Housev2_destruccion:polySurface189
+    400202: Housev2_destruccion:polySurface19
+    400204: Housev2_destruccion:polySurface190
+    400206: Housev2_destruccion:polySurface191
+    400208: Housev2_destruccion:polySurface192
+    400210: Housev2_destruccion:polySurface193
+    400212: Housev2_destruccion:polySurface194
+    400214: Housev2_destruccion:polySurface195
+    400216: Housev2_destruccion:polySurface196
+    400218: Housev2_destruccion:polySurface197
+    400220: Housev2_destruccion:polySurface198
+    400222: Housev2_destruccion:polySurface199
+    400224: Housev2_destruccion:polySurface2
+    400226: Housev2_destruccion:polySurface20
+    400228: Housev2_destruccion:polySurface200
+    400230: Housev2_destruccion:polySurface201
+    400232: Housev2_destruccion:polySurface202
+    400234: Housev2_destruccion:polySurface203
+    400236: Housev2_destruccion:polySurface204
+    400238: Housev2_destruccion:polySurface205
+    400240: Housev2_destruccion:polySurface206
+    400242: Housev2_destruccion:polySurface207
+    400244: Housev2_destruccion:polySurface208
+    400246: Housev2_destruccion:polySurface209
+    400248: Housev2_destruccion:polySurface21
+    400250: Housev2_destruccion:polySurface210
+    400252: Housev2_destruccion:polySurface211
+    400254: Housev2_destruccion:polySurface212
+    400256: Housev2_destruccion:polySurface213
+    400258: Housev2_destruccion:polySurface214
+    400260: Housev2_destruccion:polySurface215
+    400262: Housev2_destruccion:polySurface216
+    400264: Housev2_destruccion:polySurface217
+    400266: Housev2_destruccion:polySurface218
+    400268: Housev2_destruccion:polySurface219
+    400270: Housev2_destruccion:polySurface22
+    400272: Housev2_destruccion:polySurface220
+    400274: Housev2_destruccion:polySurface221
+    400276: Housev2_destruccion:polySurface222
+    400278: Housev2_destruccion:polySurface223
+    400280: Housev2_destruccion:polySurface224
+    400282: Housev2_destruccion:polySurface225
+    400284: Housev2_destruccion:polySurface226
+    400286: Housev2_destruccion:polySurface227
+    400288: Housev2_destruccion:polySurface228
+    400290: Housev2_destruccion:polySurface229
+    400292: Housev2_destruccion:polySurface23
+    400294: Housev2_destruccion:polySurface230
+    400296: Housev2_destruccion:polySurface231
+    400298: Housev2_destruccion:polySurface232
+    400300: Housev2_destruccion:polySurface233
+    400302: Housev2_destruccion:polySurface234
+    400304: Housev2_destruccion:polySurface235
+    400306: Housev2_destruccion:polySurface236
+    400308: Housev2_destruccion:polySurface237
+    400310: Housev2_destruccion:polySurface238
+    400312: Housev2_destruccion:polySurface239
+    400314: Housev2_destruccion:polySurface24
+    400316: Housev2_destruccion:polySurface240
+    400318: Housev2_destruccion:polySurface241
+    400320: Housev2_destruccion:polySurface242
+    400322: Housev2_destruccion:polySurface243
+    400324: Housev2_destruccion:polySurface244
+    400326: Housev2_destruccion:polySurface245
+    400328: Housev2_destruccion:polySurface246
+    400330: Housev2_destruccion:polySurface247
+    400332: Housev2_destruccion:polySurface248
+    400334: Housev2_destruccion:polySurface249
+    400336: Housev2_destruccion:polySurface25
+    400338: Housev2_destruccion:polySurface250
+    400340: Housev2_destruccion:polySurface251
+    400342: Housev2_destruccion:polySurface252
+    400344: Housev2_destruccion:polySurface253
+    400346: Housev2_destruccion:polySurface254
+    400348: Housev2_destruccion:polySurface255
+    400350: Housev2_destruccion:polySurface256
+    400352: Housev2_destruccion:polySurface257
+    400354: Housev2_destruccion:polySurface258
+    400356: Housev2_destruccion:polySurface259
+    400358: Housev2_destruccion:polySurface26
+    400360: Housev2_destruccion:polySurface260
+    400362: Housev2_destruccion:polySurface261
+    400364: Housev2_destruccion:polySurface262
+    400366: Housev2_destruccion:polySurface263
+    400368: Housev2_destruccion:polySurface264
+    400370: Housev2_destruccion:polySurface264 1
+    400372: Housev2_destruccion:polySurface265
+    400374: Housev2_destruccion:polySurface265 1
+    400376: Housev2_destruccion:polySurface266
+    400378: Housev2_destruccion:polySurface266 1
+    400380: Housev2_destruccion:polySurface267
+    400382: Housev2_destruccion:polySurface267 1
+    400384: Housev2_destruccion:polySurface268
+    400386: Housev2_destruccion:polySurface268 1
+    400388: Housev2_destruccion:polySurface269
+    400390: Housev2_destruccion:polySurface269 1
+    400392: Housev2_destruccion:polySurface27
+    400394: Housev2_destruccion:polySurface270
+    400396: Housev2_destruccion:polySurface270 1
+    400398: Housev2_destruccion:polySurface271
+    400400: Housev2_destruccion:polySurface271 1
+    400402: Housev2_destruccion:polySurface272
+    400404: Housev2_destruccion:polySurface272 1
+    400406: Housev2_destruccion:polySurface273
+    400408: Housev2_destruccion:polySurface273 1
+    400410: Housev2_destruccion:polySurface274
+    400412: Housev2_destruccion:polySurface274 1
+    400414: Housev2_destruccion:polySurface275
+    400416: Housev2_destruccion:polySurface275 1
+    400418: Housev2_destruccion:polySurface276
+    400420: Housev2_destruccion:polySurface276 1
+    400422: Housev2_destruccion:polySurface277
+    400424: Housev2_destruccion:polySurface277 1
+    400426: Housev2_destruccion:polySurface278
+    400428: Housev2_destruccion:polySurface278 1
+    400430: Housev2_destruccion:polySurface279
+    400432: Housev2_destruccion:polySurface279 1
+    400434: Housev2_destruccion:polySurface28
+    400436: Housev2_destruccion:polySurface280
+    400438: Housev2_destruccion:polySurface280 1
+    400440: Housev2_destruccion:polySurface281
+    400442: Housev2_destruccion:polySurface281 1
+    400444: Housev2_destruccion:polySurface282
+    400446: Housev2_destruccion:polySurface282 1
+    400448: Housev2_destruccion:polySurface283
+    400450: Housev2_destruccion:polySurface283 1
+    400452: Housev2_destruccion:polySurface284
+    400454: Housev2_destruccion:polySurface284 1
+    400456: Housev2_destruccion:polySurface285
+    400458: Housev2_destruccion:polySurface285 1
+    400460: Housev2_destruccion:polySurface286
+    400462: Housev2_destruccion:polySurface286 1
+    400464: Housev2_destruccion:polySurface287
+    400466: Housev2_destruccion:polySurface287 1
+    400468: Housev2_destruccion:polySurface288
+    400470: Housev2_destruccion:polySurface288 1
+    400472: Housev2_destruccion:polySurface289
+    400474: Housev2_destruccion:polySurface289 1
+    400476: Housev2_destruccion:polySurface29
+    400478: Housev2_destruccion:polySurface290
+    400480: Housev2_destruccion:polySurface290 1
+    400482: Housev2_destruccion:polySurface291
+    400484: Housev2_destruccion:polySurface291 1
+    400486: Housev2_destruccion:polySurface292
+    400488: Housev2_destruccion:polySurface292 1
+    400490: Housev2_destruccion:polySurface293
+    400492: Housev2_destruccion:polySurface293 1
+    400494: Housev2_destruccion:polySurface294
+    400496: Housev2_destruccion:polySurface294 1
+    400498: Housev2_destruccion:polySurface295
+    400500: Housev2_destruccion:polySurface295 1
+    400502: Housev2_destruccion:polySurface296
+    400504: Housev2_destruccion:polySurface296 1
+    400506: Housev2_destruccion:polySurface297
+    400508: Housev2_destruccion:polySurface297 1
+    400510: Housev2_destruccion:polySurface298
+    400512: Housev2_destruccion:polySurface298 1
+    400514: Housev2_destruccion:polySurface299
+    400516: Housev2_destruccion:polySurface299 1
+    400518: Housev2_destruccion:polySurface30
+    400520: Housev2_destruccion:polySurface300
+    400522: Housev2_destruccion:polySurface300 1
+    400524: Housev2_destruccion:polySurface301
+    400526: Housev2_destruccion:polySurface301 1
+    400528: Housev2_destruccion:polySurface302
+    400530: Housev2_destruccion:polySurface302 1
+    400532: Housev2_destruccion:polySurface303
+    400534: Housev2_destruccion:polySurface303 1
+    400536: Housev2_destruccion:polySurface304
+    400538: Housev2_destruccion:polySurface304 1
+    400540: Housev2_destruccion:polySurface305
+    400542: Housev2_destruccion:polySurface305 1
+    400544: Housev2_destruccion:polySurface306
+    400546: Housev2_destruccion:polySurface306 1
+    400548: Housev2_destruccion:polySurface307
+    400550: Housev2_destruccion:polySurface307 1
+    400552: Housev2_destruccion:polySurface308
+    400554: Housev2_destruccion:polySurface308 1
+    400556: Housev2_destruccion:polySurface309
+    400558: Housev2_destruccion:polySurface309 1
+    400560: Housev2_destruccion:polySurface31
+    400562: Housev2_destruccion:polySurface310
+    400564: Housev2_destruccion:polySurface310 1
+    400566: Housev2_destruccion:polySurface311
+    400568: Housev2_destruccion:polySurface311 1
+    400570: Housev2_destruccion:polySurface312
+    400572: Housev2_destruccion:polySurface312 1
+    400574: Housev2_destruccion:polySurface313
+    400576: Housev2_destruccion:polySurface313 1
+    400578: Housev2_destruccion:polySurface314
+    400580: Housev2_destruccion:polySurface314 1
+    400582: Housev2_destruccion:polySurface315
+    400584: Housev2_destruccion:polySurface315 1
+    400586: Housev2_destruccion:polySurface316
+    400588: Housev2_destruccion:polySurface316 1
+    400590: Housev2_destruccion:polySurface317
+    400592: Housev2_destruccion:polySurface317 1
+    400594: Housev2_destruccion:polySurface318
+    400596: Housev2_destruccion:polySurface318 1
+    400598: Housev2_destruccion:polySurface319
+    400600: Housev2_destruccion:polySurface319 1
+    400602: Housev2_destruccion:polySurface32
+    400604: Housev2_destruccion:polySurface320
+    400606: Housev2_destruccion:polySurface320 1
+    400608: Housev2_destruccion:polySurface321
+    400610: Housev2_destruccion:polySurface321 1
+    400612: Housev2_destruccion:polySurface322
+    400614: Housev2_destruccion:polySurface322 1
+    400616: Housev2_destruccion:polySurface323
+    400618: Housev2_destruccion:polySurface323 1
+    400620: Housev2_destruccion:polySurface324
+    400622: Housev2_destruccion:polySurface324 1
+    400624: Housev2_destruccion:polySurface325
+    400626: Housev2_destruccion:polySurface325 1
+    400628: Housev2_destruccion:polySurface326
+    400630: Housev2_destruccion:polySurface326 1
+    400632: Housev2_destruccion:polySurface327
+    400634: Housev2_destruccion:polySurface327 1
+    400636: Housev2_destruccion:polySurface328
+    400638: Housev2_destruccion:polySurface329
+    400640: Housev2_destruccion:polySurface33
+    400642: Housev2_destruccion:polySurface330
+    400644: Housev2_destruccion:polySurface331
+    400646: Housev2_destruccion:polySurface332
+    400648: Housev2_destruccion:polySurface333
+    400650: Housev2_destruccion:polySurface334
+    400652: Housev2_destruccion:polySurface335
+    400654: Housev2_destruccion:polySurface336
+    400656: Housev2_destruccion:polySurface337
+    400658: Housev2_destruccion:polySurface338
+    400660: Housev2_destruccion:polySurface339
+    400662: Housev2_destruccion:polySurface34
+    400664: Housev2_destruccion:polySurface340
+    400666: Housev2_destruccion:polySurface341
+    400668: Housev2_destruccion:polySurface342
+    400670: Housev2_destruccion:polySurface343
+    400672: Housev2_destruccion:polySurface344
+    400674: Housev2_destruccion:polySurface345
+    400676: Housev2_destruccion:polySurface346
+    400678: Housev2_destruccion:polySurface347
+    400680: Housev2_destruccion:polySurface348
+    400682: Housev2_destruccion:polySurface349
+    400684: Housev2_destruccion:polySurface35
+    400686: Housev2_destruccion:polySurface350
+    400688: Housev2_destruccion:polySurface351
+    400690: Housev2_destruccion:polySurface352
+    400692: Housev2_destruccion:polySurface353
+    400694: Housev2_destruccion:polySurface354
+    400696: Housev2_destruccion:polySurface355
+    400698: Housev2_destruccion:polySurface356
+    400700: Housev2_destruccion:polySurface357
+    400702: Housev2_destruccion:polySurface358
+    400704: Housev2_destruccion:polySurface359
+    400706: Housev2_destruccion:polySurface36
+    400708: Housev2_destruccion:polySurface360
+    400710: Housev2_destruccion:polySurface361
+    400712: Housev2_destruccion:polySurface362
+    400714: Housev2_destruccion:polySurface363
+    400716: Housev2_destruccion:polySurface364
+    400718: Housev2_destruccion:polySurface365
+    400720: Housev2_destruccion:polySurface366
+    400722: Housev2_destruccion:polySurface367
+    400724: Housev2_destruccion:polySurface368
+    400726: Housev2_destruccion:polySurface369
+    400728: Housev2_destruccion:polySurface37
+    400730: Housev2_destruccion:polySurface370
+    400732: Housev2_destruccion:polySurface371
+    400734: Housev2_destruccion:polySurface372
+    400736: Housev2_destruccion:polySurface373
+    400738: Housev2_destruccion:polySurface374
+    400740: Housev2_destruccion:polySurface375
+    400742: Housev2_destruccion:polySurface376
+    400744: Housev2_destruccion:polySurface377
+    400746: Housev2_destruccion:polySurface378
+    400748: Housev2_destruccion:polySurface379
+    400750: Housev2_destruccion:polySurface38
+    400752: Housev2_destruccion:polySurface380
+    400754: Housev2_destruccion:polySurface381
+    400756: Housev2_destruccion:polySurface382
+    400758: Housev2_destruccion:polySurface383
+    400760: Housev2_destruccion:polySurface384
+    400762: Housev2_destruccion:polySurface385
+    400764: Housev2_destruccion:polySurface386
+    400766: Housev2_destruccion:polySurface387
+    400768: Housev2_destruccion:polySurface388
+    400770: Housev2_destruccion:polySurface389
+    400772: Housev2_destruccion:polySurface39
+    400774: Housev2_destruccion:polySurface4
+    400776: Housev2_destruccion:polySurface40
+    400778: Housev2_destruccion:polySurface41
+    400780: Housev2_destruccion:polySurface42
+    400782: Housev2_destruccion:polySurface43
+    400784: Housev2_destruccion:polySurface44
+    400786: Housev2_destruccion:polySurface45
+    400788: Housev2_destruccion:polySurface46
+    400790: Housev2_destruccion:polySurface47
+    400792: Housev2_destruccion:polySurface48
+    400794: Housev2_destruccion:polySurface49
+    400796: Housev2_destruccion:polySurface50
+    400798: Housev2_destruccion:polySurface51
+    400800: Housev2_destruccion:polySurface52
+    400802: Housev2_destruccion:polySurface53
+    400804: Housev2_destruccion:polySurface54
+    400806: Housev2_destruccion:polySurface55
+    400808: Housev2_destruccion:polySurface56
+    400810: Housev2_destruccion:polySurface57
+    400812: Housev2_destruccion:polySurface58
+    400814: Housev2_destruccion:polySurface59
+    400816: Housev2_destruccion:polySurface5ShatterGroup
+    400818: Housev2_destruccion:polySurface6
+    400820: Housev2_destruccion:polySurface60
+    400822: Housev2_destruccion:polySurface61
+    400824: Housev2_destruccion:polySurface62
+    400826: Housev2_destruccion:polySurface63
+    400828: Housev2_destruccion:polySurface64
+    400830: Housev2_destruccion:polySurface65
+    400832: Housev2_destruccion:polySurface66
+    400834: Housev2_destruccion:polySurface67
+    400836: Housev2_destruccion:polySurface68
+    400838: Housev2_destruccion:polySurface69
+    400840: Housev2_destruccion:polySurface70
+    400842: Housev2_destruccion:polySurface71
+    400844: Housev2_destruccion:polySurface72
+    400846: Housev2_destruccion:polySurface73
+    400848: Housev2_destruccion:polySurface74
+    400850: Housev2_destruccion:polySurface75
+    400852: Housev2_destruccion:polySurface76
+    400854: Housev2_destruccion:polySurface77
+    400856: Housev2_destruccion:polySurface78
+    400858: Housev2_destruccion:polySurface79
+    400860: Housev2_destruccion:polySurface7ShatterGroup
+    400862: Housev2_destruccion:polySurface8
+    400864: Housev2_destruccion:polySurface80
+    400866: Housev2_destruccion:polySurface81
+    400868: Housev2_destruccion:polySurface82
+    400870: Housev2_destruccion:polySurface83
+    400872: Housev2_destruccion:polySurface84
+    400874: Housev2_destruccion:polySurface85
+    400876: Housev2_destruccion:polySurface86
+    400878: Housev2_destruccion:polySurface87
+    400880: Housev2_destruccion:polySurface88
+    400882: Housev2_destruccion:polySurface89
+    400884: Housev2_destruccion:polySurface90
+    400886: Housev2_destruccion:polySurface91
+    400888: Housev2_destruccion:polySurface92
+    400890: Housev2_destruccion:polySurface93
+    400892: Housev2_destruccion:polySurface94
+    400894: Housev2_destruccion:polySurface95
+    400896: Housev2_destruccion:polySurface96
+    400898: Housev2_destruccion:polySurface97
+    400900: Housev2_destruccion:polySurface98
+    400902: Housev2_destruccion:polySurface99
+    400904: Housev2_destruccion:polySurface9ShatterGroup
+    400906: //RootNode
+    2300000: Housev2_destruccion:polySurface100
+    2300002: Housev2_destruccion:polySurface101
+    2300004: Housev2_destruccion:polySurface102
+    2300006: Housev2_destruccion:polySurface103
+    2300008: Housev2_destruccion:polySurface104
+    2300010: Housev2_destruccion:polySurface105
+    2300012: Housev2_destruccion:polySurface106
+    2300014: Housev2_destruccion:polySurface107
+    2300016: Housev2_destruccion:polySurface108
+    2300018: Housev2_destruccion:polySurface109
+    2300020: Housev2_destruccion:polySurface110
+    2300022: Housev2_destruccion:polySurface111
+    2300024: Housev2_destruccion:polySurface112
+    2300026: Housev2_destruccion:polySurface113
+    2300028: Housev2_destruccion:polySurface114
+    2300030: Housev2_destruccion:polySurface115
+    2300032: Housev2_destruccion:polySurface116
+    2300034: Housev2_destruccion:polySurface117
+    2300036: Housev2_destruccion:polySurface118
+    2300038: Housev2_destruccion:polySurface119
+    2300040: Housev2_destruccion:polySurface120
+    2300042: Housev2_destruccion:polySurface121
+    2300044: Housev2_destruccion:polySurface122
+    2300046: Housev2_destruccion:polySurface123
+    2300048: Housev2_destruccion:polySurface124
+    2300050: Housev2_destruccion:polySurface125
+    2300052: Housev2_destruccion:polySurface126
+    2300054: Housev2_destruccion:polySurface127
+    2300056: Housev2_destruccion:polySurface128
+    2300058: Housev2_destruccion:polySurface129
+    2300060: Housev2_destruccion:polySurface130
+    2300062: Housev2_destruccion:polySurface131
+    2300064: Housev2_destruccion:polySurface132
+    2300066: Housev2_destruccion:polySurface133
+    2300068: Housev2_destruccion:polySurface134
+    2300070: Housev2_destruccion:polySurface135
+    2300072: Housev2_destruccion:polySurface136
+    2300074: Housev2_destruccion:polySurface137
+    2300076: Housev2_destruccion:polySurface138
+    2300078: Housev2_destruccion:polySurface139
+    2300080: Housev2_destruccion:polySurface14
+    2300082: Housev2_destruccion:polySurface140
+    2300084: Housev2_destruccion:polySurface141
+    2300086: Housev2_destruccion:polySurface142
+    2300088: Housev2_destruccion:polySurface143
+    2300090: Housev2_destruccion:polySurface144
+    2300092: Housev2_destruccion:polySurface145
+    2300094: Housev2_destruccion:polySurface146
+    2300096: Housev2_destruccion:polySurface147
+    2300098: Housev2_destruccion:polySurface148
+    2300100: Housev2_destruccion:polySurface149
+    2300102: Housev2_destruccion:polySurface15
+    2300104: Housev2_destruccion:polySurface150
+    2300106: Housev2_destruccion:polySurface151
+    2300108: Housev2_destruccion:polySurface152
+    2300110: Housev2_destruccion:polySurface153
+    2300112: Housev2_destruccion:polySurface154
+    2300114: Housev2_destruccion:polySurface155
+    2300116: Housev2_destruccion:polySurface156
+    2300118: Housev2_destruccion:polySurface157
+    2300120: Housev2_destruccion:polySurface158
+    2300122: Housev2_destruccion:polySurface159
+    2300124: Housev2_destruccion:polySurface16
+    2300126: Housev2_destruccion:polySurface160
+    2300128: Housev2_destruccion:polySurface161
+    2300130: Housev2_destruccion:polySurface162
+    2300132: Housev2_destruccion:polySurface163
+    2300134: Housev2_destruccion:polySurface164
+    2300136: Housev2_destruccion:polySurface165
+    2300138: Housev2_destruccion:polySurface166
+    2300140: Housev2_destruccion:polySurface167
+    2300142: Housev2_destruccion:polySurface168
+    2300144: Housev2_destruccion:polySurface169
+    2300146: Housev2_destruccion:polySurface17
+    2300148: Housev2_destruccion:polySurface170
+    2300150: Housev2_destruccion:polySurface171
+    2300152: Housev2_destruccion:polySurface172
+    2300154: Housev2_destruccion:polySurface173
+    2300156: Housev2_destruccion:polySurface174
+    2300158: Housev2_destruccion:polySurface175
+    2300160: Housev2_destruccion:polySurface176
+    2300162: Housev2_destruccion:polySurface177
+    2300164: Housev2_destruccion:polySurface178
+    2300166: Housev2_destruccion:polySurface179
+    2300168: Housev2_destruccion:polySurface18
+    2300170: Housev2_destruccion:polySurface180
+    2300172: Housev2_destruccion:polySurface181
+    2300174: Housev2_destruccion:polySurface182
+    2300176: Housev2_destruccion:polySurface183
+    2300178: Housev2_destruccion:polySurface184
+    2300180: Housev2_destruccion:polySurface185
+    2300182: Housev2_destruccion:polySurface186
+    2300184: Housev2_destruccion:polySurface187
+    2300186: Housev2_destruccion:polySurface188
+    2300188: Housev2_destruccion:polySurface189
+    2300190: Housev2_destruccion:polySurface19
+    2300192: Housev2_destruccion:polySurface190
+    2300194: Housev2_destruccion:polySurface191
+    2300196: Housev2_destruccion:polySurface192
+    2300198: Housev2_destruccion:polySurface193
+    2300200: Housev2_destruccion:polySurface194
+    2300202: Housev2_destruccion:polySurface195
+    2300204: Housev2_destruccion:polySurface196
+    2300206: Housev2_destruccion:polySurface197
+    2300208: Housev2_destruccion:polySurface198
+    2300210: Housev2_destruccion:polySurface199
+    2300212: Housev2_destruccion:polySurface20
+    2300214: Housev2_destruccion:polySurface200
+    2300216: Housev2_destruccion:polySurface201
+    2300218: Housev2_destruccion:polySurface202
+    2300220: Housev2_destruccion:polySurface203
+    2300222: Housev2_destruccion:polySurface204
+    2300224: Housev2_destruccion:polySurface205
+    2300226: Housev2_destruccion:polySurface206
+    2300228: Housev2_destruccion:polySurface207
+    2300230: Housev2_destruccion:polySurface208
+    2300232: Housev2_destruccion:polySurface209
+    2300234: Housev2_destruccion:polySurface21
+    2300236: Housev2_destruccion:polySurface210
+    2300238: Housev2_destruccion:polySurface211
+    2300240: Housev2_destruccion:polySurface212
+    2300242: Housev2_destruccion:polySurface213
+    2300244: Housev2_destruccion:polySurface214
+    2300246: Housev2_destruccion:polySurface215
+    2300248: Housev2_destruccion:polySurface216
+    2300250: Housev2_destruccion:polySurface217
+    2300252: Housev2_destruccion:polySurface218
+    2300254: Housev2_destruccion:polySurface219
+    2300256: Housev2_destruccion:polySurface22
+    2300258: Housev2_destruccion:polySurface220
+    2300260: Housev2_destruccion:polySurface221
+    2300262: Housev2_destruccion:polySurface222
+    2300264: Housev2_destruccion:polySurface223
+    2300266: Housev2_destruccion:polySurface224
+    2300268: Housev2_destruccion:polySurface225
+    2300270: Housev2_destruccion:polySurface226
+    2300272: Housev2_destruccion:polySurface227
+    2300274: Housev2_destruccion:polySurface228
+    2300276: Housev2_destruccion:polySurface229
+    2300278: Housev2_destruccion:polySurface23
+    2300280: Housev2_destruccion:polySurface230
+    2300282: Housev2_destruccion:polySurface231
+    2300284: Housev2_destruccion:polySurface232
+    2300286: Housev2_destruccion:polySurface233
+    2300288: Housev2_destruccion:polySurface234
+    2300290: Housev2_destruccion:polySurface235
+    2300292: Housev2_destruccion:polySurface236
+    2300294: Housev2_destruccion:polySurface237
+    2300296: Housev2_destruccion:polySurface238
+    2300298: Housev2_destruccion:polySurface239
+    2300300: Housev2_destruccion:polySurface24
+    2300302: Housev2_destruccion:polySurface240
+    2300304: Housev2_destruccion:polySurface241
+    2300306: Housev2_destruccion:polySurface242
+    2300308: Housev2_destruccion:polySurface243
+    2300310: Housev2_destruccion:polySurface244
+    2300312: Housev2_destruccion:polySurface245
+    2300314: Housev2_destruccion:polySurface246
+    2300316: Housev2_destruccion:polySurface247
+    2300318: Housev2_destruccion:polySurface248
+    2300320: Housev2_destruccion:polySurface249
+    2300322: Housev2_destruccion:polySurface25
+    2300324: Housev2_destruccion:polySurface250
+    2300326: Housev2_destruccion:polySurface251
+    2300328: Housev2_destruccion:polySurface252
+    2300330: Housev2_destruccion:polySurface253
+    2300332: Housev2_destruccion:polySurface254
+    2300334: Housev2_destruccion:polySurface255
+    2300336: Housev2_destruccion:polySurface256
+    2300338: Housev2_destruccion:polySurface257
+    2300340: Housev2_destruccion:polySurface258
+    2300342: Housev2_destruccion:polySurface259
+    2300344: Housev2_destruccion:polySurface26
+    2300346: Housev2_destruccion:polySurface260
+    2300348: Housev2_destruccion:polySurface261
+    2300350: Housev2_destruccion:polySurface262
+    2300352: Housev2_destruccion:polySurface263
+    2300354: Housev2_destruccion:polySurface264
+    2300356: Housev2_destruccion:polySurface264 1
+    2300358: Housev2_destruccion:polySurface265
+    2300360: Housev2_destruccion:polySurface265 1
+    2300362: Housev2_destruccion:polySurface266
+    2300364: Housev2_destruccion:polySurface266 1
+    2300366: Housev2_destruccion:polySurface267
+    2300368: Housev2_destruccion:polySurface267 1
+    2300370: Housev2_destruccion:polySurface268
+    2300372: Housev2_destruccion:polySurface268 1
+    2300374: Housev2_destruccion:polySurface269
+    2300376: Housev2_destruccion:polySurface269 1
+    2300378: Housev2_destruccion:polySurface27
+    2300380: Housev2_destruccion:polySurface270
+    2300382: Housev2_destruccion:polySurface270 1
+    2300384: Housev2_destruccion:polySurface271
+    2300386: Housev2_destruccion:polySurface271 1
+    2300388: Housev2_destruccion:polySurface272
+    2300390: Housev2_destruccion:polySurface272 1
+    2300392: Housev2_destruccion:polySurface273
+    2300394: Housev2_destruccion:polySurface273 1
+    2300396: Housev2_destruccion:polySurface274
+    2300398: Housev2_destruccion:polySurface274 1
+    2300400: Housev2_destruccion:polySurface275
+    2300402: Housev2_destruccion:polySurface275 1
+    2300404: Housev2_destruccion:polySurface276
+    2300406: Housev2_destruccion:polySurface276 1
+    2300408: Housev2_destruccion:polySurface277
+    2300410: Housev2_destruccion:polySurface277 1
+    2300412: Housev2_destruccion:polySurface278
+    2300414: Housev2_destruccion:polySurface278 1
+    2300416: Housev2_destruccion:polySurface279
+    2300418: Housev2_destruccion:polySurface279 1
+    2300420: Housev2_destruccion:polySurface28
+    2300422: Housev2_destruccion:polySurface280
+    2300424: Housev2_destruccion:polySurface280 1
+    2300426: Housev2_destruccion:polySurface281
+    2300428: Housev2_destruccion:polySurface281 1
+    2300430: Housev2_destruccion:polySurface282
+    2300432: Housev2_destruccion:polySurface282 1
+    2300434: Housev2_destruccion:polySurface283
+    2300436: Housev2_destruccion:polySurface283 1
+    2300438: Housev2_destruccion:polySurface284
+    2300440: Housev2_destruccion:polySurface284 1
+    2300442: Housev2_destruccion:polySurface285
+    2300444: Housev2_destruccion:polySurface285 1
+    2300446: Housev2_destruccion:polySurface286
+    2300448: Housev2_destruccion:polySurface286 1
+    2300450: Housev2_destruccion:polySurface287
+    2300452: Housev2_destruccion:polySurface287 1
+    2300454: Housev2_destruccion:polySurface288
+    2300456: Housev2_destruccion:polySurface288 1
+    2300458: Housev2_destruccion:polySurface289
+    2300460: Housev2_destruccion:polySurface289 1
+    2300462: Housev2_destruccion:polySurface29
+    2300464: Housev2_destruccion:polySurface290
+    2300466: Housev2_destruccion:polySurface290 1
+    2300468: Housev2_destruccion:polySurface291
+    2300470: Housev2_destruccion:polySurface291 1
+    2300472: Housev2_destruccion:polySurface292
+    2300474: Housev2_destruccion:polySurface292 1
+    2300476: Housev2_destruccion:polySurface293
+    2300478: Housev2_destruccion:polySurface293 1
+    2300480: Housev2_destruccion:polySurface294
+    2300482: Housev2_destruccion:polySurface294 1
+    2300484: Housev2_destruccion:polySurface295
+    2300486: Housev2_destruccion:polySurface295 1
+    2300488: Housev2_destruccion:polySurface296
+    2300490: Housev2_destruccion:polySurface296 1
+    2300492: Housev2_destruccion:polySurface297
+    2300494: Housev2_destruccion:polySurface297 1
+    2300496: Housev2_destruccion:polySurface298
+    2300498: Housev2_destruccion:polySurface298 1
+    2300500: Housev2_destruccion:polySurface299
+    2300502: Housev2_destruccion:polySurface299 1
+    2300504: Housev2_destruccion:polySurface30
+    2300506: Housev2_destruccion:polySurface300
+    2300508: Housev2_destruccion:polySurface300 1
+    2300510: Housev2_destruccion:polySurface301
+    2300512: Housev2_destruccion:polySurface301 1
+    2300514: Housev2_destruccion:polySurface302
+    2300516: Housev2_destruccion:polySurface302 1
+    2300518: Housev2_destruccion:polySurface303
+    2300520: Housev2_destruccion:polySurface303 1
+    2300522: Housev2_destruccion:polySurface304
+    2300524: Housev2_destruccion:polySurface304 1
+    2300526: Housev2_destruccion:polySurface305
+    2300528: Housev2_destruccion:polySurface305 1
+    2300530: Housev2_destruccion:polySurface306
+    2300532: Housev2_destruccion:polySurface306 1
+    2300534: Housev2_destruccion:polySurface307
+    2300536: Housev2_destruccion:polySurface307 1
+    2300538: Housev2_destruccion:polySurface308
+    2300540: Housev2_destruccion:polySurface308 1
+    2300542: Housev2_destruccion:polySurface309
+    2300544: Housev2_destruccion:polySurface309 1
+    2300546: Housev2_destruccion:polySurface31
+    2300548: Housev2_destruccion:polySurface310
+    2300550: Housev2_destruccion:polySurface310 1
+    2300552: Housev2_destruccion:polySurface311
+    2300554: Housev2_destruccion:polySurface311 1
+    2300556: Housev2_destruccion:polySurface312
+    2300558: Housev2_destruccion:polySurface312 1
+    2300560: Housev2_destruccion:polySurface313
+    2300562: Housev2_destruccion:polySurface313 1
+    2300564: Housev2_destruccion:polySurface314
+    2300566: Housev2_destruccion:polySurface314 1
+    2300568: Housev2_destruccion:polySurface315
+    2300570: Housev2_destruccion:polySurface315 1
+    2300572: Housev2_destruccion:polySurface316
+    2300574: Housev2_destruccion:polySurface316 1
+    2300576: Housev2_destruccion:polySurface317
+    2300578: Housev2_destruccion:polySurface317 1
+    2300580: Housev2_destruccion:polySurface318
+    2300582: Housev2_destruccion:polySurface318 1
+    2300584: Housev2_destruccion:polySurface319
+    2300586: Housev2_destruccion:polySurface319 1
+    2300588: Housev2_destruccion:polySurface32
+    2300590: Housev2_destruccion:polySurface320
+    2300592: Housev2_destruccion:polySurface320 1
+    2300594: Housev2_destruccion:polySurface321
+    2300596: Housev2_destruccion:polySurface321 1
+    2300598: Housev2_destruccion:polySurface322
+    2300600: Housev2_destruccion:polySurface322 1
+    2300602: Housev2_destruccion:polySurface323
+    2300604: Housev2_destruccion:polySurface323 1
+    2300606: Housev2_destruccion:polySurface324
+    2300608: Housev2_destruccion:polySurface324 1
+    2300610: Housev2_destruccion:polySurface325
+    2300612: Housev2_destruccion:polySurface325 1
+    2300614: Housev2_destruccion:polySurface326
+    2300616: Housev2_destruccion:polySurface326 1
+    2300618: Housev2_destruccion:polySurface327
+    2300620: Housev2_destruccion:polySurface327 1
+    2300622: Housev2_destruccion:polySurface328
+    2300624: Housev2_destruccion:polySurface329
+    2300626: Housev2_destruccion:polySurface33
+    2300628: Housev2_destruccion:polySurface330
+    2300630: Housev2_destruccion:polySurface331
+    2300632: Housev2_destruccion:polySurface332
+    2300634: Housev2_destruccion:polySurface333
+    2300636: Housev2_destruccion:polySurface334
+    2300638: Housev2_destruccion:polySurface335
+    2300640: Housev2_destruccion:polySurface336
+    2300642: Housev2_destruccion:polySurface337
+    2300644: Housev2_destruccion:polySurface338
+    2300646: Housev2_destruccion:polySurface339
+    2300648: Housev2_destruccion:polySurface34
+    2300650: Housev2_destruccion:polySurface340
+    2300652: Housev2_destruccion:polySurface341
+    2300654: Housev2_destruccion:polySurface342
+    2300656: Housev2_destruccion:polySurface343
+    2300658: Housev2_destruccion:polySurface344
+    2300660: Housev2_destruccion:polySurface345
+    2300662: Housev2_destruccion:polySurface346
+    2300664: Housev2_destruccion:polySurface347
+    2300666: Housev2_destruccion:polySurface348
+    2300668: Housev2_destruccion:polySurface349
+    2300670: Housev2_destruccion:polySurface35
+    2300672: Housev2_destruccion:polySurface350
+    2300674: Housev2_destruccion:polySurface351
+    2300676: Housev2_destruccion:polySurface352
+    2300678: Housev2_destruccion:polySurface353
+    2300680: Housev2_destruccion:polySurface354
+    2300682: Housev2_destruccion:polySurface355
+    2300684: Housev2_destruccion:polySurface356
+    2300686: Housev2_destruccion:polySurface357
+    2300688: Housev2_destruccion:polySurface358
+    2300690: Housev2_destruccion:polySurface359
+    2300692: Housev2_destruccion:polySurface36
+    2300694: Housev2_destruccion:polySurface360
+    2300696: Housev2_destruccion:polySurface361
+    2300698: Housev2_destruccion:polySurface362
+    2300700: Housev2_destruccion:polySurface363
+    2300702: Housev2_destruccion:polySurface364
+    2300704: Housev2_destruccion:polySurface365
+    2300706: Housev2_destruccion:polySurface366
+    2300708: Housev2_destruccion:polySurface367
+    2300710: Housev2_destruccion:polySurface368
+    2300712: Housev2_destruccion:polySurface369
+    2300714: Housev2_destruccion:polySurface37
+    2300716: Housev2_destruccion:polySurface370
+    2300718: Housev2_destruccion:polySurface371
+    2300720: Housev2_destruccion:polySurface372
+    2300722: Housev2_destruccion:polySurface373
+    2300724: Housev2_destruccion:polySurface374
+    2300726: Housev2_destruccion:polySurface375
+    2300728: Housev2_destruccion:polySurface376
+    2300730: Housev2_destruccion:polySurface377
+    2300732: Housev2_destruccion:polySurface378
+    2300734: Housev2_destruccion:polySurface379
+    2300736: Housev2_destruccion:polySurface38
+    2300738: Housev2_destruccion:polySurface380
+    2300740: Housev2_destruccion:polySurface381
+    2300742: Housev2_destruccion:polySurface382
+    2300744: Housev2_destruccion:polySurface383
+    2300746: Housev2_destruccion:polySurface384
+    2300748: Housev2_destruccion:polySurface385
+    2300750: Housev2_destruccion:polySurface386
+    2300752: Housev2_destruccion:polySurface387
+    2300754: Housev2_destruccion:polySurface388
+    2300756: Housev2_destruccion:polySurface389
+    2300758: Housev2_destruccion:polySurface39
+    2300760: Housev2_destruccion:polySurface40
+    2300762: Housev2_destruccion:polySurface41
+    2300764: Housev2_destruccion:polySurface42
+    2300766: Housev2_destruccion:polySurface43
+    2300768: Housev2_destruccion:polySurface44
+    2300770: Housev2_destruccion:polySurface45
+    2300772: Housev2_destruccion:polySurface46
+    2300774: Housev2_destruccion:polySurface47
+    2300776: Housev2_destruccion:polySurface48
+    2300778: Housev2_destruccion:polySurface49
+    2300780: Housev2_destruccion:polySurface50
+    2300782: Housev2_destruccion:polySurface51
+    2300784: Housev2_destruccion:polySurface52
+    2300786: Housev2_destruccion:polySurface53
+    2300788: Housev2_destruccion:polySurface54
+    2300790: Housev2_destruccion:polySurface55
+    2300792: Housev2_destruccion:polySurface56
+    2300794: Housev2_destruccion:polySurface57
+    2300796: Housev2_destruccion:polySurface58
+    2300798: Housev2_destruccion:polySurface59
+    2300800: Housev2_destruccion:polySurface60
+    2300802: Housev2_destruccion:polySurface61
+    2300804: Housev2_destruccion:polySurface62
+    2300806: Housev2_destruccion:polySurface63
+    2300808: Housev2_destruccion:polySurface64
+    2300810: Housev2_destruccion:polySurface65
+    2300812: Housev2_destruccion:polySurface66
+    2300814: Housev2_destruccion:polySurface67
+    2300816: Housev2_destruccion:polySurface68
+    2300818: Housev2_destruccion:polySurface69
+    2300820: Housev2_destruccion:polySurface70
+    2300822: Housev2_destruccion:polySurface71
+    2300824: Housev2_destruccion:polySurface72
+    2300826: Housev2_destruccion:polySurface73
+    2300828: Housev2_destruccion:polySurface74
+    2300830: Housev2_destruccion:polySurface75
+    2300832: Housev2_destruccion:polySurface76
+    2300834: Housev2_destruccion:polySurface77
+    2300836: Housev2_destruccion:polySurface78
+    2300838: Housev2_destruccion:polySurface79
+    2300840: Housev2_destruccion:polySurface80
+    2300842: Housev2_destruccion:polySurface81
+    2300844: Housev2_destruccion:polySurface82
+    2300846: Housev2_destruccion:polySurface83
+    2300848: Housev2_destruccion:polySurface84
+    2300850: Housev2_destruccion:polySurface85
+    2300852: Housev2_destruccion:polySurface86
+    2300854: Housev2_destruccion:polySurface87
+    2300856: Housev2_destruccion:polySurface88
+    2300858: Housev2_destruccion:polySurface89
+    2300860: Housev2_destruccion:polySurface90
+    2300862: Housev2_destruccion:polySurface91
+    2300864: Housev2_destruccion:polySurface92
+    2300866: Housev2_destruccion:polySurface93
+    2300868: Housev2_destruccion:polySurface94
+    2300870: Housev2_destruccion:polySurface95
+    2300872: Housev2_destruccion:polySurface96
+    2300874: Housev2_destruccion:polySurface97
+    2300876: Housev2_destruccion:polySurface98
+    2300878: Housev2_destruccion:polySurface99
+    3300000: Housev2_destruccion:polySurface100
+    3300002: Housev2_destruccion:polySurface101
+    3300004: Housev2_destruccion:polySurface102
+    3300006: Housev2_destruccion:polySurface103
+    3300008: Housev2_destruccion:polySurface104
+    3300010: Housev2_destruccion:polySurface105
+    3300012: Housev2_destruccion:polySurface106
+    3300014: Housev2_destruccion:polySurface107
+    3300016: Housev2_destruccion:polySurface108
+    3300018: Housev2_destruccion:polySurface109
+    3300020: Housev2_destruccion:polySurface110
+    3300022: Housev2_destruccion:polySurface111
+    3300024: Housev2_destruccion:polySurface112
+    3300026: Housev2_destruccion:polySurface113
+    3300028: Housev2_destruccion:polySurface114
+    3300030: Housev2_destruccion:polySurface115
+    3300032: Housev2_destruccion:polySurface116
+    3300034: Housev2_destruccion:polySurface117
+    3300036: Housev2_destruccion:polySurface118
+    3300038: Housev2_destruccion:polySurface119
+    3300040: Housev2_destruccion:polySurface120
+    3300042: Housev2_destruccion:polySurface121
+    3300044: Housev2_destruccion:polySurface122
+    3300046: Housev2_destruccion:polySurface123
+    3300048: Housev2_destruccion:polySurface124
+    3300050: Housev2_destruccion:polySurface125
+    3300052: Housev2_destruccion:polySurface126
+    3300054: Housev2_destruccion:polySurface127
+    3300056: Housev2_destruccion:polySurface128
+    3300058: Housev2_destruccion:polySurface129
+    3300060: Housev2_destruccion:polySurface130
+    3300062: Housev2_destruccion:polySurface131
+    3300064: Housev2_destruccion:polySurface132
+    3300066: Housev2_destruccion:polySurface133
+    3300068: Housev2_destruccion:polySurface134
+    3300070: Housev2_destruccion:polySurface135
+    3300072: Housev2_destruccion:polySurface136
+    3300074: Housev2_destruccion:polySurface137
+    3300076: Housev2_destruccion:polySurface138
+    3300078: Housev2_destruccion:polySurface139
+    3300080: Housev2_destruccion:polySurface14
+    3300082: Housev2_destruccion:polySurface140
+    3300084: Housev2_destruccion:polySurface141
+    3300086: Housev2_destruccion:polySurface142
+    3300088: Housev2_destruccion:polySurface143
+    3300090: Housev2_destruccion:polySurface144
+    3300092: Housev2_destruccion:polySurface145
+    3300094: Housev2_destruccion:polySurface146
+    3300096: Housev2_destruccion:polySurface147
+    3300098: Housev2_destruccion:polySurface148
+    3300100: Housev2_destruccion:polySurface149
+    3300102: Housev2_destruccion:polySurface15
+    3300104: Housev2_destruccion:polySurface150
+    3300106: Housev2_destruccion:polySurface151
+    3300108: Housev2_destruccion:polySurface152
+    3300110: Housev2_destruccion:polySurface153
+    3300112: Housev2_destruccion:polySurface154
+    3300114: Housev2_destruccion:polySurface155
+    3300116: Housev2_destruccion:polySurface156
+    3300118: Housev2_destruccion:polySurface157
+    3300120: Housev2_destruccion:polySurface158
+    3300122: Housev2_destruccion:polySurface159
+    3300124: Housev2_destruccion:polySurface16
+    3300126: Housev2_destruccion:polySurface160
+    3300128: Housev2_destruccion:polySurface161
+    3300130: Housev2_destruccion:polySurface162
+    3300132: Housev2_destruccion:polySurface163
+    3300134: Housev2_destruccion:polySurface164
+    3300136: Housev2_destruccion:polySurface165
+    3300138: Housev2_destruccion:polySurface166
+    3300140: Housev2_destruccion:polySurface167
+    3300142: Housev2_destruccion:polySurface168
+    3300144: Housev2_destruccion:polySurface169
+    3300146: Housev2_destruccion:polySurface17
+    3300148: Housev2_destruccion:polySurface170
+    3300150: Housev2_destruccion:polySurface171
+    3300152: Housev2_destruccion:polySurface172
+    3300154: Housev2_destruccion:polySurface173
+    3300156: Housev2_destruccion:polySurface174
+    3300158: Housev2_destruccion:polySurface175
+    3300160: Housev2_destruccion:polySurface176
+    3300162: Housev2_destruccion:polySurface177
+    3300164: Housev2_destruccion:polySurface178
+    3300166: Housev2_destruccion:polySurface179
+    3300168: Housev2_destruccion:polySurface18
+    3300170: Housev2_destruccion:polySurface180
+    3300172: Housev2_destruccion:polySurface181
+    3300174: Housev2_destruccion:polySurface182
+    3300176: Housev2_destruccion:polySurface183
+    3300178: Housev2_destruccion:polySurface184
+    3300180: Housev2_destruccion:polySurface185
+    3300182: Housev2_destruccion:polySurface186
+    3300184: Housev2_destruccion:polySurface187
+    3300186: Housev2_destruccion:polySurface188
+    3300188: Housev2_destruccion:polySurface189
+    3300190: Housev2_destruccion:polySurface19
+    3300192: Housev2_destruccion:polySurface190
+    3300194: Housev2_destruccion:polySurface191
+    3300196: Housev2_destruccion:polySurface192
+    3300198: Housev2_destruccion:polySurface193
+    3300200: Housev2_destruccion:polySurface194
+    3300202: Housev2_destruccion:polySurface195
+    3300204: Housev2_destruccion:polySurface196
+    3300206: Housev2_destruccion:polySurface197
+    3300208: Housev2_destruccion:polySurface198
+    3300210: Housev2_destruccion:polySurface199
+    3300212: Housev2_destruccion:polySurface20
+    3300214: Housev2_destruccion:polySurface200
+    3300216: Housev2_destruccion:polySurface201
+    3300218: Housev2_destruccion:polySurface202
+    3300220: Housev2_destruccion:polySurface203
+    3300222: Housev2_destruccion:polySurface204
+    3300224: Housev2_destruccion:polySurface205
+    3300226: Housev2_destruccion:polySurface206
+    3300228: Housev2_destruccion:polySurface207
+    3300230: Housev2_destruccion:polySurface208
+    3300232: Housev2_destruccion:polySurface209
+    3300234: Housev2_destruccion:polySurface21
+    3300236: Housev2_destruccion:polySurface210
+    3300238: Housev2_destruccion:polySurface211
+    3300240: Housev2_destruccion:polySurface212
+    3300242: Housev2_destruccion:polySurface213
+    3300244: Housev2_destruccion:polySurface214
+    3300246: Housev2_destruccion:polySurface215
+    3300248: Housev2_destruccion:polySurface216
+    3300250: Housev2_destruccion:polySurface217
+    3300252: Housev2_destruccion:polySurface218
+    3300254: Housev2_destruccion:polySurface219
+    3300256: Housev2_destruccion:polySurface22
+    3300258: Housev2_destruccion:polySurface220
+    3300260: Housev2_destruccion:polySurface221
+    3300262: Housev2_destruccion:polySurface222
+    3300264: Housev2_destruccion:polySurface223
+    3300266: Housev2_destruccion:polySurface224
+    3300268: Housev2_destruccion:polySurface225
+    3300270: Housev2_destruccion:polySurface226
+    3300272: Housev2_destruccion:polySurface227
+    3300274: Housev2_destruccion:polySurface228
+    3300276: Housev2_destruccion:polySurface229
+    3300278: Housev2_destruccion:polySurface23
+    3300280: Housev2_destruccion:polySurface230
+    3300282: Housev2_destruccion:polySurface231
+    3300284: Housev2_destruccion:polySurface232
+    3300286: Housev2_destruccion:polySurface233
+    3300288: Housev2_destruccion:polySurface234
+    3300290: Housev2_destruccion:polySurface235
+    3300292: Housev2_destruccion:polySurface236
+    3300294: Housev2_destruccion:polySurface237
+    3300296: Housev2_destruccion:polySurface238
+    3300298: Housev2_destruccion:polySurface239
+    3300300: Housev2_destruccion:polySurface24
+    3300302: Housev2_destruccion:polySurface240
+    3300304: Housev2_destruccion:polySurface241
+    3300306: Housev2_destruccion:polySurface242
+    3300308: Housev2_destruccion:polySurface243
+    3300310: Housev2_destruccion:polySurface244
+    3300312: Housev2_destruccion:polySurface245
+    3300314: Housev2_destruccion:polySurface246
+    3300316: Housev2_destruccion:polySurface247
+    3300318: Housev2_destruccion:polySurface248
+    3300320: Housev2_destruccion:polySurface249
+    3300322: Housev2_destruccion:polySurface25
+    3300324: Housev2_destruccion:polySurface250
+    3300326: Housev2_destruccion:polySurface251
+    3300328: Housev2_destruccion:polySurface252
+    3300330: Housev2_destruccion:polySurface253
+    3300332: Housev2_destruccion:polySurface254
+    3300334: Housev2_destruccion:polySurface255
+    3300336: Housev2_destruccion:polySurface256
+    3300338: Housev2_destruccion:polySurface257
+    3300340: Housev2_destruccion:polySurface258
+    3300342: Housev2_destruccion:polySurface259
+    3300344: Housev2_destruccion:polySurface26
+    3300346: Housev2_destruccion:polySurface260
+    3300348: Housev2_destruccion:polySurface261
+    3300350: Housev2_destruccion:polySurface262
+    3300352: Housev2_destruccion:polySurface263
+    3300354: Housev2_destruccion:polySurface264
+    3300356: Housev2_destruccion:polySurface264 1
+    3300358: Housev2_destruccion:polySurface265
+    3300360: Housev2_destruccion:polySurface265 1
+    3300362: Housev2_destruccion:polySurface266
+    3300364: Housev2_destruccion:polySurface266 1
+    3300366: Housev2_destruccion:polySurface267
+    3300368: Housev2_destruccion:polySurface267 1
+    3300370: Housev2_destruccion:polySurface268
+    3300372: Housev2_destruccion:polySurface268 1
+    3300374: Housev2_destruccion:polySurface269
+    3300376: Housev2_destruccion:polySurface269 1
+    3300378: Housev2_destruccion:polySurface27
+    3300380: Housev2_destruccion:polySurface270
+    3300382: Housev2_destruccion:polySurface270 1
+    3300384: Housev2_destruccion:polySurface271
+    3300386: Housev2_destruccion:polySurface271 1
+    3300388: Housev2_destruccion:polySurface272
+    3300390: Housev2_destruccion:polySurface272 1
+    3300392: Housev2_destruccion:polySurface273
+    3300394: Housev2_destruccion:polySurface273 1
+    3300396: Housev2_destruccion:polySurface274
+    3300398: Housev2_destruccion:polySurface274 1
+    3300400: Housev2_destruccion:polySurface275
+    3300402: Housev2_destruccion:polySurface275 1
+    3300404: Housev2_destruccion:polySurface276
+    3300406: Housev2_destruccion:polySurface276 1
+    3300408: Housev2_destruccion:polySurface277
+    3300410: Housev2_destruccion:polySurface277 1
+    3300412: Housev2_destruccion:polySurface278
+    3300414: Housev2_destruccion:polySurface278 1
+    3300416: Housev2_destruccion:polySurface279
+    3300418: Housev2_destruccion:polySurface279 1
+    3300420: Housev2_destruccion:polySurface28
+    3300422: Housev2_destruccion:polySurface280
+    3300424: Housev2_destruccion:polySurface280 1
+    3300426: Housev2_destruccion:polySurface281
+    3300428: Housev2_destruccion:polySurface281 1
+    3300430: Housev2_destruccion:polySurface282
+    3300432: Housev2_destruccion:polySurface282 1
+    3300434: Housev2_destruccion:polySurface283
+    3300436: Housev2_destruccion:polySurface283 1
+    3300438: Housev2_destruccion:polySurface284
+    3300440: Housev2_destruccion:polySurface284 1
+    3300442: Housev2_destruccion:polySurface285
+    3300444: Housev2_destruccion:polySurface285 1
+    3300446: Housev2_destruccion:polySurface286
+    3300448: Housev2_destruccion:polySurface286 1
+    3300450: Housev2_destruccion:polySurface287
+    3300452: Housev2_destruccion:polySurface287 1
+    3300454: Housev2_destruccion:polySurface288
+    3300456: Housev2_destruccion:polySurface288 1
+    3300458: Housev2_destruccion:polySurface289
+    3300460: Housev2_destruccion:polySurface289 1
+    3300462: Housev2_destruccion:polySurface29
+    3300464: Housev2_destruccion:polySurface290
+    3300466: Housev2_destruccion:polySurface290 1
+    3300468: Housev2_destruccion:polySurface291
+    3300470: Housev2_destruccion:polySurface291 1
+    3300472: Housev2_destruccion:polySurface292
+    3300474: Housev2_destruccion:polySurface292 1
+    3300476: Housev2_destruccion:polySurface293
+    3300478: Housev2_destruccion:polySurface293 1
+    3300480: Housev2_destruccion:polySurface294
+    3300482: Housev2_destruccion:polySurface294 1
+    3300484: Housev2_destruccion:polySurface295
+    3300486: Housev2_destruccion:polySurface295 1
+    3300488: Housev2_destruccion:polySurface296
+    3300490: Housev2_destruccion:polySurface296 1
+    3300492: Housev2_destruccion:polySurface297
+    3300494: Housev2_destruccion:polySurface297 1
+    3300496: Housev2_destruccion:polySurface298
+    3300498: Housev2_destruccion:polySurface298 1
+    3300500: Housev2_destruccion:polySurface299
+    3300502: Housev2_destruccion:polySurface299 1
+    3300504: Housev2_destruccion:polySurface30
+    3300506: Housev2_destruccion:polySurface300
+    3300508: Housev2_destruccion:polySurface300 1
+    3300510: Housev2_destruccion:polySurface301
+    3300512: Housev2_destruccion:polySurface301 1
+    3300514: Housev2_destruccion:polySurface302
+    3300516: Housev2_destruccion:polySurface302 1
+    3300518: Housev2_destruccion:polySurface303
+    3300520: Housev2_destruccion:polySurface303 1
+    3300522: Housev2_destruccion:polySurface304
+    3300524: Housev2_destruccion:polySurface304 1
+    3300526: Housev2_destruccion:polySurface305
+    3300528: Housev2_destruccion:polySurface305 1
+    3300530: Housev2_destruccion:polySurface306
+    3300532: Housev2_destruccion:polySurface306 1
+    3300534: Housev2_destruccion:polySurface307
+    3300536: Housev2_destruccion:polySurface307 1
+    3300538: Housev2_destruccion:polySurface308
+    3300540: Housev2_destruccion:polySurface308 1
+    3300542: Housev2_destruccion:polySurface309
+    3300544: Housev2_destruccion:polySurface309 1
+    3300546: Housev2_destruccion:polySurface31
+    3300548: Housev2_destruccion:polySurface310
+    3300550: Housev2_destruccion:polySurface310 1
+    3300552: Housev2_destruccion:polySurface311
+    3300554: Housev2_destruccion:polySurface311 1
+    3300556: Housev2_destruccion:polySurface312
+    3300558: Housev2_destruccion:polySurface312 1
+    3300560: Housev2_destruccion:polySurface313
+    3300562: Housev2_destruccion:polySurface313 1
+    3300564: Housev2_destruccion:polySurface314
+    3300566: Housev2_destruccion:polySurface314 1
+    3300568: Housev2_destruccion:polySurface315
+    3300570: Housev2_destruccion:polySurface315 1
+    3300572: Housev2_destruccion:polySurface316
+    3300574: Housev2_destruccion:polySurface316 1
+    3300576: Housev2_destruccion:polySurface317
+    3300578: Housev2_destruccion:polySurface317 1
+    3300580: Housev2_destruccion:polySurface318
+    3300582: Housev2_destruccion:polySurface318 1
+    3300584: Housev2_destruccion:polySurface319
+    3300586: Housev2_destruccion:polySurface319 1
+    3300588: Housev2_destruccion:polySurface32
+    3300590: Housev2_destruccion:polySurface320
+    3300592: Housev2_destruccion:polySurface320 1
+    3300594: Housev2_destruccion:polySurface321
+    3300596: Housev2_destruccion:polySurface321 1
+    3300598: Housev2_destruccion:polySurface322
+    3300600: Housev2_destruccion:polySurface322 1
+    3300602: Housev2_destruccion:polySurface323
+    3300604: Housev2_destruccion:polySurface323 1
+    3300606: Housev2_destruccion:polySurface324
+    3300608: Housev2_destruccion:polySurface324 1
+    3300610: Housev2_destruccion:polySurface325
+    3300612: Housev2_destruccion:polySurface325 1
+    3300614: Housev2_destruccion:polySurface326
+    3300616: Housev2_destruccion:polySurface326 1
+    3300618: Housev2_destruccion:polySurface327
+    3300620: Housev2_destruccion:polySurface327 1
+    3300622: Housev2_destruccion:polySurface328
+    3300624: Housev2_destruccion:polySurface329
+    3300626: Housev2_destruccion:polySurface33
+    3300628: Housev2_destruccion:polySurface330
+    3300630: Housev2_destruccion:polySurface331
+    3300632: Housev2_destruccion:polySurface332
+    3300634: Housev2_destruccion:polySurface333
+    3300636: Housev2_destruccion:polySurface334
+    3300638: Housev2_destruccion:polySurface335
+    3300640: Housev2_destruccion:polySurface336
+    3300642: Housev2_destruccion:polySurface337
+    3300644: Housev2_destruccion:polySurface338
+    3300646: Housev2_destruccion:polySurface339
+    3300648: Housev2_destruccion:polySurface34
+    3300650: Housev2_destruccion:polySurface340
+    3300652: Housev2_destruccion:polySurface341
+    3300654: Housev2_destruccion:polySurface342
+    3300656: Housev2_destruccion:polySurface343
+    3300658: Housev2_destruccion:polySurface344
+    3300660: Housev2_destruccion:polySurface345
+    3300662: Housev2_destruccion:polySurface346
+    3300664: Housev2_destruccion:polySurface347
+    3300666: Housev2_destruccion:polySurface348
+    3300668: Housev2_destruccion:polySurface349
+    3300670: Housev2_destruccion:polySurface35
+    3300672: Housev2_destruccion:polySurface350
+    3300674: Housev2_destruccion:polySurface351
+    3300676: Housev2_destruccion:polySurface352
+    3300678: Housev2_destruccion:polySurface353
+    3300680: Housev2_destruccion:polySurface354
+    3300682: Housev2_destruccion:polySurface355
+    3300684: Housev2_destruccion:polySurface356
+    3300686: Housev2_destruccion:polySurface357
+    3300688: Housev2_destruccion:polySurface358
+    3300690: Housev2_destruccion:polySurface359
+    3300692: Housev2_destruccion:polySurface36
+    3300694: Housev2_destruccion:polySurface360
+    3300696: Housev2_destruccion:polySurface361
+    3300698: Housev2_destruccion:polySurface362
+    3300700: Housev2_destruccion:polySurface363
+    3300702: Housev2_destruccion:polySurface364
+    3300704: Housev2_destruccion:polySurface365
+    3300706: Housev2_destruccion:polySurface366
+    3300708: Housev2_destruccion:polySurface367
+    3300710: Housev2_destruccion:polySurface368
+    3300712: Housev2_destruccion:polySurface369
+    3300714: Housev2_destruccion:polySurface37
+    3300716: Housev2_destruccion:polySurface370
+    3300718: Housev2_destruccion:polySurface371
+    3300720: Housev2_destruccion:polySurface372
+    3300722: Housev2_destruccion:polySurface373
+    3300724: Housev2_destruccion:polySurface374
+    3300726: Housev2_destruccion:polySurface375
+    3300728: Housev2_destruccion:polySurface376
+    3300730: Housev2_destruccion:polySurface377
+    3300732: Housev2_destruccion:polySurface378
+    3300734: Housev2_destruccion:polySurface379
+    3300736: Housev2_destruccion:polySurface38
+    3300738: Housev2_destruccion:polySurface380
+    3300740: Housev2_destruccion:polySurface381
+    3300742: Housev2_destruccion:polySurface382
+    3300744: Housev2_destruccion:polySurface383
+    3300746: Housev2_destruccion:polySurface384
+    3300748: Housev2_destruccion:polySurface385
+    3300750: Housev2_destruccion:polySurface386
+    3300752: Housev2_destruccion:polySurface387
+    3300754: Housev2_destruccion:polySurface388
+    3300756: Housev2_destruccion:polySurface389
+    3300758: Housev2_destruccion:polySurface39
+    3300760: Housev2_destruccion:polySurface40
+    3300762: Housev2_destruccion:polySurface41
+    3300764: Housev2_destruccion:polySurface42
+    3300766: Housev2_destruccion:polySurface43
+    3300768: Housev2_destruccion:polySurface44
+    3300770: Housev2_destruccion:polySurface45
+    3300772: Housev2_destruccion:polySurface46
+    3300774: Housev2_destruccion:polySurface47
+    3300776: Housev2_destruccion:polySurface48
+    3300778: Housev2_destruccion:polySurface49
+    3300780: Housev2_destruccion:polySurface50
+    3300782: Housev2_destruccion:polySurface51
+    3300784: Housev2_destruccion:polySurface52
+    3300786: Housev2_destruccion:polySurface53
+    3300788: Housev2_destruccion:polySurface54
+    3300790: Housev2_destruccion:polySurface55
+    3300792: Housev2_destruccion:polySurface56
+    3300794: Housev2_destruccion:polySurface57
+    3300796: Housev2_destruccion:polySurface58
+    3300798: Housev2_destruccion:polySurface59
+    3300800: Housev2_destruccion:polySurface60
+    3300802: Housev2_destruccion:polySurface61
+    3300804: Housev2_destruccion:polySurface62
+    3300806: Housev2_destruccion:polySurface63
+    3300808: Housev2_destruccion:polySurface64
+    3300810: Housev2_destruccion:polySurface65
+    3300812: Housev2_destruccion:polySurface66
+    3300814: Housev2_destruccion:polySurface67
+    3300816: Housev2_destruccion:polySurface68
+    3300818: Housev2_destruccion:polySurface69
+    3300820: Housev2_destruccion:polySurface70
+    3300822: Housev2_destruccion:polySurface71
+    3300824: Housev2_destruccion:polySurface72
+    3300826: Housev2_destruccion:polySurface73
+    3300828: Housev2_destruccion:polySurface74
+    3300830: Housev2_destruccion:polySurface75
+    3300832: Housev2_destruccion:polySurface76
+    3300834: Housev2_destruccion:polySurface77
+    3300836: Housev2_destruccion:polySurface78
+    3300838: Housev2_destruccion:polySurface79
+    3300840: Housev2_destruccion:polySurface80
+    3300842: Housev2_destruccion:polySurface81
+    3300844: Housev2_destruccion:polySurface82
+    3300846: Housev2_destruccion:polySurface83
+    3300848: Housev2_destruccion:polySurface84
+    3300850: Housev2_destruccion:polySurface85
+    3300852: Housev2_destruccion:polySurface86
+    3300854: Housev2_destruccion:polySurface87
+    3300856: Housev2_destruccion:polySurface88
+    3300858: Housev2_destruccion:polySurface89
+    3300860: Housev2_destruccion:polySurface90
+    3300862: Housev2_destruccion:polySurface91
+    3300864: Housev2_destruccion:polySurface92
+    3300866: Housev2_destruccion:polySurface93
+    3300868: Housev2_destruccion:polySurface94
+    3300870: Housev2_destruccion:polySurface95
+    3300872: Housev2_destruccion:polySurface96
+    3300874: Housev2_destruccion:polySurface97
+    3300876: Housev2_destruccion:polySurface98
+    3300878: Housev2_destruccion:polySurface99
+    4300000: Housev2_destruccion:polySurface201
+    4300002: Housev2_destruccion:polySurface202
+    4300004: Housev2_destruccion:polySurface203
+    4300006: Housev2_destruccion:polySurface204
+    4300008: Housev2_destruccion:polySurface205
+    4300010: Housev2_destruccion:polySurface206
+    4300012: Housev2_destruccion:polySurface207
+    4300014: Housev2_destruccion:polySurface208
+    4300016: Housev2_destruccion:polySurface209
+    4300018: Housev2_destruccion:polySurface210
+    4300020: Housev2_destruccion:polySurface211
+    4300022: Housev2_destruccion:polySurface212
+    4300024: Housev2_destruccion:polySurface213
+    4300026: Housev2_destruccion:polySurface214
+    4300028: Housev2_destruccion:polySurface215
+    4300030: Housev2_destruccion:polySurface216
+    4300032: Housev2_destruccion:polySurface217
+    4300034: Housev2_destruccion:polySurface218
+    4300036: Housev2_destruccion:polySurface219
+    4300038: Housev2_destruccion:polySurface220
+    4300040: Housev2_destruccion:polySurface221
+    4300042: Housev2_destruccion:polySurface222
+    4300044: Housev2_destruccion:polySurface223
+    4300046: Housev2_destruccion:polySurface224
+    4300048: Housev2_destruccion:polySurface225
+    4300050: Housev2_destruccion:polySurface226
+    4300052: Housev2_destruccion:polySurface227
+    4300054: Housev2_destruccion:polySurface228
+    4300056: Housev2_destruccion:polySurface229
+    4300058: Housev2_destruccion:polySurface230
+    4300060: Housev2_destruccion:polySurface231
+    4300062: Housev2_destruccion:polySurface232
+    4300064: Housev2_destruccion:polySurface233
+    4300066: Housev2_destruccion:polySurface234
+    4300068: Housev2_destruccion:polySurface235
+    4300070: Housev2_destruccion:polySurface236
+    4300072: Housev2_destruccion:polySurface237
+    4300074: Housev2_destruccion:polySurface238
+    4300076: Housev2_destruccion:polySurface239
+    4300078: Housev2_destruccion:polySurface240
+    4300080: Housev2_destruccion:polySurface241
+    4300082: Housev2_destruccion:polySurface242
+    4300084: Housev2_destruccion:polySurface243
+    4300086: Housev2_destruccion:polySurface244
+    4300088: Housev2_destruccion:polySurface245
+    4300090: Housev2_destruccion:polySurface246
+    4300092: Housev2_destruccion:polySurface247
+    4300094: Housev2_destruccion:polySurface248
+    4300096: Housev2_destruccion:polySurface249
+    4300098: Housev2_destruccion:polySurface250
+    4300100: Housev2_destruccion:polySurface251
+    4300102: Housev2_destruccion:polySurface252
+    4300104: Housev2_destruccion:polySurface253
+    4300106: Housev2_destruccion:polySurface254
+    4300108: Housev2_destruccion:polySurface255
+    4300110: Housev2_destruccion:polySurface256
+    4300112: Housev2_destruccion:polySurface257
+    4300114: Housev2_destruccion:polySurface258
+    4300116: Housev2_destruccion:polySurface259
+    4300118: Housev2_destruccion:polySurface260
+    4300120: Housev2_destruccion:polySurface261
+    4300122: Housev2_destruccion:polySurface262
+    4300124: Housev2_destruccion:polySurface263
+    4300126: Housev2_destruccion:polySurface264
+    4300128: Housev2_destruccion:polySurface265
+    4300130: Housev2_destruccion:polySurface266
+    4300132: Housev2_destruccion:polySurface267
+    4300134: Housev2_destruccion:polySurface268
+    4300136: Housev2_destruccion:polySurface269
+    4300138: Housev2_destruccion:polySurface270
+    4300140: Housev2_destruccion:polySurface271
+    4300142: Housev2_destruccion:polySurface272
+    4300144: Housev2_destruccion:polySurface273
+    4300146: Housev2_destruccion:polySurface274
+    4300148: Housev2_destruccion:polySurface275
+    4300150: Housev2_destruccion:polySurface276
+    4300152: Housev2_destruccion:polySurface277
+    4300154: Housev2_destruccion:polySurface278
+    4300156: Housev2_destruccion:polySurface279
+    4300158: Housev2_destruccion:polySurface280
+    4300160: Housev2_destruccion:polySurface281
+    4300162: Housev2_destruccion:polySurface282
+    4300164: Housev2_destruccion:polySurface283
+    4300166: Housev2_destruccion:polySurface284
+    4300168: Housev2_destruccion:polySurface285
+    4300170: Housev2_destruccion:polySurface286
+    4300172: Housev2_destruccion:polySurface287
+    4300174: Housev2_destruccion:polySurface288
+    4300176: Housev2_destruccion:polySurface289
+    4300178: Housev2_destruccion:polySurface290
+    4300180: Housev2_destruccion:polySurface291
+    4300182: Housev2_destruccion:polySurface292
+    4300184: Housev2_destruccion:polySurface293
+    4300186: Housev2_destruccion:polySurface294
+    4300188: Housev2_destruccion:polySurface295
+    4300190: Housev2_destruccion:polySurface296
+    4300192: Housev2_destruccion:polySurface297
+    4300194: Housev2_destruccion:polySurface298
+    4300196: Housev2_destruccion:polySurface299
+    4300198: Housev2_destruccion:polySurface300
+    4300200: Housev2_destruccion:polySurface301
+    4300202: Housev2_destruccion:polySurface302
+    4300204: Housev2_destruccion:polySurface303
+    4300206: Housev2_destruccion:polySurface304
+    4300208: Housev2_destruccion:polySurface305
+    4300210: Housev2_destruccion:polySurface306
+    4300212: Housev2_destruccion:polySurface307
+    4300214: Housev2_destruccion:polySurface308
+    4300216: Housev2_destruccion:polySurface309
+    4300218: Housev2_destruccion:polySurface310
+    4300220: Housev2_destruccion:polySurface311
+    4300222: Housev2_destruccion:polySurface312
+    4300224: Housev2_destruccion:polySurface313
+    4300226: Housev2_destruccion:polySurface314
+    4300228: Housev2_destruccion:polySurface315
+    4300230: Housev2_destruccion:polySurface316
+    4300232: Housev2_destruccion:polySurface317
+    4300234: Housev2_destruccion:polySurface318
+    4300236: Housev2_destruccion:polySurface319
+    4300238: Housev2_destruccion:polySurface320
+    4300240: Housev2_destruccion:polySurface321
+    4300242: Housev2_destruccion:polySurface322
+    4300244: Housev2_destruccion:polySurface323
+    4300246: Housev2_destruccion:polySurface324
+    4300248: Housev2_destruccion:polySurface325
+    4300250: Housev2_destruccion:polySurface326
+    4300252: Housev2_destruccion:polySurface327
+    4300254: Housev2_destruccion:polySurface264
+    4300256: Housev2_destruccion:polySurface265
+    4300258: Housev2_destruccion:polySurface266
+    4300260: Housev2_destruccion:polySurface267
+    4300262: Housev2_destruccion:polySurface268
+    4300264: Housev2_destruccion:polySurface269
+    4300266: Housev2_destruccion:polySurface270
+    4300268: Housev2_destruccion:polySurface271
+    4300270: Housev2_destruccion:polySurface272
+    4300272: Housev2_destruccion:polySurface273
+    4300274: Housev2_destruccion:polySurface274
+    4300276: Housev2_destruccion:polySurface275
+    4300278: Housev2_destruccion:polySurface276
+    4300280: Housev2_destruccion:polySurface277
+    4300282: Housev2_destruccion:polySurface278
+    4300284: Housev2_destruccion:polySurface279
+    4300286: Housev2_destruccion:polySurface280
+    4300288: Housev2_destruccion:polySurface281
+    4300290: Housev2_destruccion:polySurface282
+    4300292: Housev2_destruccion:polySurface283
+    4300294: Housev2_destruccion:polySurface284
+    4300296: Housev2_destruccion:polySurface285
+    4300298: Housev2_destruccion:polySurface286
+    4300300: Housev2_destruccion:polySurface287
+    4300302: Housev2_destruccion:polySurface288
+    4300304: Housev2_destruccion:polySurface289
+    4300306: Housev2_destruccion:polySurface290
+    4300308: Housev2_destruccion:polySurface291
+    4300310: Housev2_destruccion:polySurface292
+    4300312: Housev2_destruccion:polySurface293
+    4300314: Housev2_destruccion:polySurface294
+    4300316: Housev2_destruccion:polySurface295
+    4300318: Housev2_destruccion:polySurface296
+    4300320: Housev2_destruccion:polySurface297
+    4300322: Housev2_destruccion:polySurface298
+    4300324: Housev2_destruccion:polySurface299
+    4300326: Housev2_destruccion:polySurface300
+    4300328: Housev2_destruccion:polySurface301
+    4300330: Housev2_destruccion:polySurface302
+    4300332: Housev2_destruccion:polySurface303
+    4300334: Housev2_destruccion:polySurface304
+    4300336: Housev2_destruccion:polySurface305
+    4300338: Housev2_destruccion:polySurface306
+    4300340: Housev2_destruccion:polySurface307
+    4300342: Housev2_destruccion:polySurface308
+    4300344: Housev2_destruccion:polySurface309
+    4300346: Housev2_destruccion:polySurface310
+    4300348: Housev2_destruccion:polySurface311
+    4300350: Housev2_destruccion:polySurface312
+    4300352: Housev2_destruccion:polySurface313
+    4300354: Housev2_destruccion:polySurface314
+    4300356: Housev2_destruccion:polySurface315
+    4300358: Housev2_destruccion:polySurface316
+    4300360: Housev2_destruccion:polySurface317
+    4300362: Housev2_destruccion:polySurface318
+    4300364: Housev2_destruccion:polySurface319
+    4300366: Housev2_destruccion:polySurface320
+    4300368: Housev2_destruccion:polySurface321
+    4300370: Housev2_destruccion:polySurface322
+    4300372: Housev2_destruccion:polySurface323
+    4300374: Housev2_destruccion:polySurface324
+    4300376: Housev2_destruccion:polySurface325
+    4300378: Housev2_destruccion:polySurface326
+    4300380: Housev2_destruccion:polySurface327
+    4300382: Housev2_destruccion:polySurface137
+    4300384: Housev2_destruccion:polySurface138
+    4300386: Housev2_destruccion:polySurface139
+    4300388: Housev2_destruccion:polySurface140
+    4300390: Housev2_destruccion:polySurface141
+    4300392: Housev2_destruccion:polySurface142
+    4300394: Housev2_destruccion:polySurface143
+    4300396: Housev2_destruccion:polySurface144
+    4300398: Housev2_destruccion:polySurface145
+    4300400: Housev2_destruccion:polySurface146
+    4300402: Housev2_destruccion:polySurface147
+    4300404: Housev2_destruccion:polySurface148
+    4300406: Housev2_destruccion:polySurface149
+    4300408: Housev2_destruccion:polySurface150
+    4300410: Housev2_destruccion:polySurface151
+    4300412: Housev2_destruccion:polySurface152
+    4300414: Housev2_destruccion:polySurface153
+    4300416: Housev2_destruccion:polySurface154
+    4300418: Housev2_destruccion:polySurface155
+    4300420: Housev2_destruccion:polySurface156
+    4300422: Housev2_destruccion:polySurface157
+    4300424: Housev2_destruccion:polySurface158
+    4300426: Housev2_destruccion:polySurface159
+    4300428: Housev2_destruccion:polySurface160
+    4300430: Housev2_destruccion:polySurface161
+    4300432: Housev2_destruccion:polySurface162
+    4300434: Housev2_destruccion:polySurface163
+    4300436: Housev2_destruccion:polySurface164
+    4300438: Housev2_destruccion:polySurface165
+    4300440: Housev2_destruccion:polySurface166
+    4300442: Housev2_destruccion:polySurface167
+    4300444: Housev2_destruccion:polySurface168
+    4300446: Housev2_destruccion:polySurface169
+    4300448: Housev2_destruccion:polySurface170
+    4300450: Housev2_destruccion:polySurface171
+    4300452: Housev2_destruccion:polySurface172
+    4300454: Housev2_destruccion:polySurface173
+    4300456: Housev2_destruccion:polySurface174
+    4300458: Housev2_destruccion:polySurface175
+    4300460: Housev2_destruccion:polySurface176
+    4300462: Housev2_destruccion:polySurface177
+    4300464: Housev2_destruccion:polySurface178
+    4300466: Housev2_destruccion:polySurface179
+    4300468: Housev2_destruccion:polySurface180
+    4300470: Housev2_destruccion:polySurface181
+    4300472: Housev2_destruccion:polySurface182
+    4300474: Housev2_destruccion:polySurface183
+    4300476: Housev2_destruccion:polySurface184
+    4300478: Housev2_destruccion:polySurface185
+    4300480: Housev2_destruccion:polySurface186
+    4300482: Housev2_destruccion:polySurface187
+    4300484: Housev2_destruccion:polySurface188
+    4300486: Housev2_destruccion:polySurface189
+    4300488: Housev2_destruccion:polySurface190
+    4300490: Housev2_destruccion:polySurface191
+    4300492: Housev2_destruccion:polySurface192
+    4300494: Housev2_destruccion:polySurface193
+    4300496: Housev2_destruccion:polySurface194
+    4300498: Housev2_destruccion:polySurface195
+    4300500: Housev2_destruccion:polySurface196
+    4300502: Housev2_destruccion:polySurface197
+    4300504: Housev2_destruccion:polySurface198
+    4300506: Housev2_destruccion:polySurface199
+    4300508: Housev2_destruccion:polySurface200
+    4300510: Housev2_destruccion:polySurface14
+    4300512: Housev2_destruccion:polySurface15
+    4300514: Housev2_destruccion:polySurface16
+    4300516: Housev2_destruccion:polySurface17
+    4300518: Housev2_destruccion:polySurface18
+    4300520: Housev2_destruccion:polySurface19
+    4300522: Housev2_destruccion:polySurface20
+    4300524: Housev2_destruccion:polySurface21
+    4300526: Housev2_destruccion:polySurface22
+    4300528: Housev2_destruccion:polySurface23
+    4300530: Housev2_destruccion:polySurface24
+    4300532: Housev2_destruccion:polySurface25
+    4300534: Housev2_destruccion:polySurface26
+    4300536: Housev2_destruccion:polySurface27
+    4300538: Housev2_destruccion:polySurface28
+    4300540: Housev2_destruccion:polySurface29
+    4300542: Housev2_destruccion:polySurface30
+    4300544: Housev2_destruccion:polySurface31
+    4300546: Housev2_destruccion:polySurface32
+    4300548: Housev2_destruccion:polySurface33
+    4300550: Housev2_destruccion:polySurface34
+    4300552: Housev2_destruccion:polySurface35
+    4300554: Housev2_destruccion:polySurface36
+    4300556: Housev2_destruccion:polySurface37
+    4300558: Housev2_destruccion:polySurface38
+    4300560: Housev2_destruccion:polySurface39
+    4300562: Housev2_destruccion:polySurface40
+    4300564: Housev2_destruccion:polySurface41
+    4300566: Housev2_destruccion:polySurface42
+    4300568: Housev2_destruccion:polySurface43
+    4300570: Housev2_destruccion:polySurface44
+    4300572: Housev2_destruccion:polySurface45
+    4300574: Housev2_destruccion:polySurface46
+    4300576: Housev2_destruccion:polySurface47
+    4300578: Housev2_destruccion:polySurface48
+    4300580: Housev2_destruccion:polySurface49
+    4300582: Housev2_destruccion:polySurface50
+    4300584: Housev2_destruccion:polySurface51
+    4300586: Housev2_destruccion:polySurface52
+    4300588: Housev2_destruccion:polySurface53
+    4300590: Housev2_destruccion:polySurface54
+    4300592: Housev2_destruccion:polySurface55
+    4300594: Housev2_destruccion:polySurface56
+    4300596: Housev2_destruccion:polySurface57
+    4300598: Housev2_destruccion:polySurface58
+    4300600: Housev2_destruccion:polySurface59
+    4300602: Housev2_destruccion:polySurface60
+    4300604: Housev2_destruccion:polySurface61
+    4300606: Housev2_destruccion:polySurface62
+    4300608: Housev2_destruccion:polySurface63
+    4300610: Housev2_destruccion:polySurface64
+    4300612: Housev2_destruccion:polySurface65
+    4300614: Housev2_destruccion:polySurface66
+    4300616: Housev2_destruccion:polySurface67
+    4300618: Housev2_destruccion:polySurface68
+    4300620: Housev2_destruccion:polySurface69
+    4300622: Housev2_destruccion:polySurface70
+    4300624: Housev2_destruccion:polySurface71
+    4300626: Housev2_destruccion:polySurface72
+    4300628: Housev2_destruccion:polySurface73
+    4300630: Housev2_destruccion:polySurface74
+    4300632: Housev2_destruccion:polySurface75
+    4300634: Housev2_destruccion:polySurface76
+    4300636: Housev2_destruccion:polySurface77
+    4300638: Housev2_destruccion:polySurface78
+    4300640: Housev2_destruccion:polySurface79
+    4300642: Housev2_destruccion:polySurface80
+    4300644: Housev2_destruccion:polySurface81
+    4300646: Housev2_destruccion:polySurface82
+    4300648: Housev2_destruccion:polySurface83
+    4300650: Housev2_destruccion:polySurface84
+    4300652: Housev2_destruccion:polySurface85
+    4300654: Housev2_destruccion:polySurface86
+    4300656: Housev2_destruccion:polySurface87
+    4300658: Housev2_destruccion:polySurface88
+    4300660: Housev2_destruccion:polySurface89
+    4300662: Housev2_destruccion:polySurface90
+    4300664: Housev2_destruccion:polySurface91
+    4300666: Housev2_destruccion:polySurface92
+    4300668: Housev2_destruccion:polySurface93
+    4300670: Housev2_destruccion:polySurface94
+    4300672: Housev2_destruccion:polySurface95
+    4300674: Housev2_destruccion:polySurface96
+    4300676: Housev2_destruccion:polySurface97
+    4300678: Housev2_destruccion:polySurface98
+    4300680: Housev2_destruccion:polySurface99
+    4300682: Housev2_destruccion:polySurface100
+    4300684: Housev2_destruccion:polySurface101
+    4300686: Housev2_destruccion:polySurface102
+    4300688: Housev2_destruccion:polySurface103
+    4300690: Housev2_destruccion:polySurface104
+    4300692: Housev2_destruccion:polySurface105
+    4300694: Housev2_destruccion:polySurface106
+    4300696: Housev2_destruccion:polySurface107
+    4300698: Housev2_destruccion:polySurface108
+    4300700: Housev2_destruccion:polySurface109
+    4300702: Housev2_destruccion:polySurface110
+    4300704: Housev2_destruccion:polySurface111
+    4300706: Housev2_destruccion:polySurface112
+    4300708: Housev2_destruccion:polySurface113
+    4300710: Housev2_destruccion:polySurface114
+    4300712: Housev2_destruccion:polySurface115
+    4300714: Housev2_destruccion:polySurface116
+    4300716: Housev2_destruccion:polySurface117
+    4300718: Housev2_destruccion:polySurface118
+    4300720: Housev2_destruccion:polySurface119
+    4300722: Housev2_destruccion:polySurface120
+    4300724: Housev2_destruccion:polySurface121
+    4300726: Housev2_destruccion:polySurface122
+    4300728: Housev2_destruccion:polySurface123
+    4300730: Housev2_destruccion:polySurface124
+    4300732: Housev2_destruccion:polySurface125
+    4300734: Housev2_destruccion:polySurface126
+    4300736: Housev2_destruccion:polySurface127
+    4300738: Housev2_destruccion:polySurface128
+    4300740: Housev2_destruccion:polySurface129
+    4300742: Housev2_destruccion:polySurface130
+    4300744: Housev2_destruccion:polySurface131
+    4300746: Housev2_destruccion:polySurface132
+    4300748: Housev2_destruccion:polySurface133
+    4300750: Housev2_destruccion:polySurface134
+    4300752: Housev2_destruccion:polySurface135
+    4300754: Housev2_destruccion:polySurface136
+    4300756: Housev2_destruccion:polySurface328
+    4300758: Housev2_destruccion:polySurface329
+    4300760: Housev2_destruccion:polySurface330
+    4300762: Housev2_destruccion:polySurface331
+    4300764: Housev2_destruccion:polySurface332
+    4300766: Housev2_destruccion:polySurface333
+    4300768: Housev2_destruccion:polySurface334
+    4300770: Housev2_destruccion:polySurface335
+    4300772: Housev2_destruccion:polySurface336
+    4300774: Housev2_destruccion:polySurface337
+    4300776: Housev2_destruccion:polySurface338
+    4300778: Housev2_destruccion:polySurface339
+    4300780: Housev2_destruccion:polySurface340
+    4300782: Housev2_destruccion:polySurface341
+    4300784: Housev2_destruccion:polySurface342
+    4300786: Housev2_destruccion:polySurface343
+    4300788: Housev2_destruccion:polySurface344
+    4300790: Housev2_destruccion:polySurface345
+    4300792: Housev2_destruccion:polySurface346
+    4300794: Housev2_destruccion:polySurface347
+    4300796: Housev2_destruccion:polySurface348
+    4300798: Housev2_destruccion:polySurface349
+    4300800: Housev2_destruccion:polySurface350
+    4300802: Housev2_destruccion:polySurface351
+    4300804: Housev2_destruccion:polySurface352
+    4300806: Housev2_destruccion:polySurface353
+    4300808: Housev2_destruccion:polySurface354
+    4300810: Housev2_destruccion:polySurface355
+    4300812: Housev2_destruccion:polySurface356
+    4300814: Housev2_destruccion:polySurface357
+    4300816: Housev2_destruccion:polySurface358
+    4300818: Housev2_destruccion:polySurface359
+    4300820: Housev2_destruccion:polySurface360
+    4300822: Housev2_destruccion:polySurface361
+    4300824: Housev2_destruccion:polySurface362
+    4300826: Housev2_destruccion:polySurface363
+    4300828: Housev2_destruccion:polySurface364
+    4300830: Housev2_destruccion:polySurface365
+    4300832: Housev2_destruccion:polySurface366
+    4300834: Housev2_destruccion:polySurface367
+    4300836: Housev2_destruccion:polySurface368
+    4300838: Housev2_destruccion:polySurface369
+    4300840: Housev2_destruccion:polySurface370
+    4300842: Housev2_destruccion:polySurface371
+    4300844: Housev2_destruccion:polySurface372
+    4300846: Housev2_destruccion:polySurface373
+    4300848: Housev2_destruccion:polySurface374
+    4300850: Housev2_destruccion:polySurface375
+    4300852: Housev2_destruccion:polySurface376
+    4300854: Housev2_destruccion:polySurface377
+    4300856: Housev2_destruccion:polySurface378
+    4300858: Housev2_destruccion:polySurface379
+    4300860: Housev2_destruccion:polySurface380
+    4300862: Housev2_destruccion:polySurface381
+    4300864: Housev2_destruccion:polySurface382
+    4300866: Housev2_destruccion:polySurface383
+    4300868: Housev2_destruccion:polySurface384
+    4300870: Housev2_destruccion:polySurface385
+    4300872: Housev2_destruccion:polySurface386
+    4300874: Housev2_destruccion:polySurface387
+    4300876: Housev2_destruccion:polySurface388
+    4300878: Housev2_destruccion:polySurface389
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
