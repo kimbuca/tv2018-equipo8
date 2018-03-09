@@ -10,7 +10,16 @@ public class cambioEscena : MonoBehaviour {
     public Image Img;
     public string scene;
 
-    
+
+	void Update() {
+
+//		if (Input.GetKeyUp ("down")) {
+//			Debug.Log ("tecla");
+//			StartCoroutine(Fade());
+//		}
+	}
+
+
     IEnumerator Fade()
     {
         anim.SetBool("Fade", true);
@@ -23,5 +32,5 @@ public class cambioEscena : MonoBehaviour {
         StartCoroutine(Fade());
        
     }
-    
+		
 }
